@@ -1,0 +1,4 @@
+Options -Indexes
+<Files *.*>
+Header set Content-Disposition attachment
+</Files>

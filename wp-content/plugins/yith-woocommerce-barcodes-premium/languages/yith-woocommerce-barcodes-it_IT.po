@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Barcodes and QR Codes\n"
+"POT-Creation-Date: 2017-07-05 13:32+0200\n"
+"PO-Revision-Date: 2017-07-05 13:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../functions.php:39
+msgid ""
+"YITH WooCommerce Barcodes is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Barcodes è attivo ma non operativo. Il suo funzionamento "
+"richiede WooCommerce."
+
+#: ../includes/class-yith-woocommerce-barcodes.php:305
+msgid "No barcode is available for this element."
+msgstr "Nessun codice a barre disponibile per questo elemento."
+
+#: ../includes/class-yith-ywbc-backend.php:290
+msgid "Generate barcode"
+msgstr "Crea il codice a barre"
+
+#: ../includes/class-yith-ywbc-backend.php:306
+msgid "Barcode applied successfully"
+msgstr "Codice a barre applicato con successo"
+
+#: ../includes/class-yith-ywbc-backend.php:307
+msgid "It is not possible to complete the task"
+msgstr "Non è possibile completare l'attività"
+
+#: ../includes/class-yith-ywbc-backend.php:587
+#: ../includes/class-yith-ywbc-backend.php:596
+msgid "YITH Barcodes"
+msgstr "YITH Barcodes"
+
+#: ../includes/class-yith-ywbc-backend.php:638
+#: ../templates/shortcode/ywbc-complete-orders.php:7
+msgid "Code"
+msgstr "Codice"
+
+#: ../includes/class-yith-ywbc-backend.php:641
+msgid "Enter the code or leave empty for automatic code"
+msgstr "Inserisci il codice oppure lascia vuoto per il codice automatico"
+
+#: ../includes/class-yith-ywbc-backend.php:644
+msgid "Generate"
+msgstr "Crea"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:193
+#: ../includes/class-yith-ywbc-shortcodes.php:251
+msgid "The selected action could not be performed"
+msgstr "L'azione selezionata non può essere eseguita"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:225
+msgid "Matching results"
+msgstr "Risultati corrispondenti"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:317
+msgctxt "title for product barcode form"
+msgid "Order barcode"
+msgstr "Codice a barre dell'ordine"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:352
+msgctxt "title for product barcode form"
+msgid "Product barcode"
+msgstr "Codice a barre del prodotto"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:385
+#, php-format
+msgid "Order status set by %s through YITH WooCommerce Barcodes."
+msgstr "Stato dell'ordine impostato da %s tramite YITH WooCommerce Barcodes."
+
+#: ../includes/class-yith-ywbc-shortcodes.php:387
+msgid "Order status set through YITH WooCommerce Barcodes."
+msgstr "Stato dell'ordine impostato tramite YITH WooCommerce Barcodes."
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:130
+msgid "General"
+msgstr "Generale"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:131
+msgid "Tools"
+msgstr "Strumenti"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:186
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:189
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:215
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:228
+msgid ""
+"YITH WooCommerce Barcodes is available in an outstanding PREMIUM version "
+"with many new options, discover it now."
+msgstr ""
+"YITH WooCommerce Barcodes è disponibile in un' eccezionale versione PREMIUM "
+"con molte nuove opzioni, scoprila ora."
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:229
+msgid "Premium version"
+msgstr "Versione premium"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:236
+msgid "YITH WooCommerce Barcodes"
+msgstr "YITH WooCommerce Barcodes"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:237
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Barcodes options.<br> From "
+"this menu you can access all settings of YITH plugins activated."
+msgstr ""
+"Puoi trovare le opzioni di YITH WooCommerce Barcodes nella tab YITH Plugins."
+"<br> Da questo menu puoi accedere a tutte le impostazioni dei plugin YITH "
+"attivati. "
+
+#: ../plugin-options/general-options.php:21
+msgid "Product settings"
+msgstr "Impostazioni prodotto"
+
+#: ../plugin-options/general-options.php:25
+msgid "Enable on products"
+msgstr "Abilita sui prodotti"
+
+#: ../plugin-options/general-options.php:27
+msgid "Enable barcode generation on products"
+msgstr "Attiva la creazione dei codici a barre sui prodotti "
+
+#: ../plugin-options/general-options.php:32
+msgid "New products"
+msgstr "Nuovi prodotti"
+
+#: ../plugin-options/general-options.php:34
+msgid "Create barcode automatically for new products"
+msgstr "Crea automaticamente il codice a barre per i nuovi prodotti "
+
+#: ../plugin-options/general-options.php:39
+msgid "Product barcode protocol"
+msgstr "Protocollo dei codici a barre per i prodotti"
+
+#: ../plugin-options/general-options.php:41
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"products"
+msgstr ""
+"Scegli il protocollo di codice a barre che desideri utilizzare per creare un "
+"nuovo codice sui prodotti"
+
+#: ../plugin-options/general-options.php:47
+msgid "Enable manual barcode"
+msgstr "Attiva il codice a barre manuale"
+
+#: ../plugin-options/general-options.php:49
+msgid ""
+"Enable this option, if you want to show a form in product page where a "
+"barcode value can be entered"
+msgstr ""
+"Attiva questa opzione se vuoi mostrare un modulo nella pagina prodotto in "
+"cui si possa inserire un valore di codice a barre "
+
+#: ../plugin-options/general-options.php:54
+msgid "Show in product page"
+msgstr "Mostra nella pagina prodotto"
+
+#: ../plugin-options/general-options.php:56
+msgid ""
+"Choose whether you want to show the barcode image on product page or not"
+msgstr ""
+"Scegli se mostrare o meno l'immagine del codice a barre sulla pagina prodotto"
+
+#: ../plugin-options/general-options.php:64
+msgid "Order settings"
+msgstr "Impostazioni ordine"
+
+#: ../plugin-options/general-options.php:68
+msgid "Enable on orders"
+msgstr "Attiva sugli ordini"
+
+#: ../plugin-options/general-options.php:70
+msgid "Enable barcode generation on orders"
+msgstr "Attiva la creazione dei codici a barre sugli ordini"
+
+#: ../plugin-options/general-options.php:75
+msgid "New orders"
+msgstr "Nuovi ordini"
+
+#: ../plugin-options/general-options.php:77
+msgid "Generate barcode automatically for new orders"
+msgstr "Crea automaticamente il codice a barre per i nuovi ordini"
+
+#: ../plugin-options/general-options.php:82
+msgid "Barcode protocol on orders"
+msgstr "Protocollo di codici a barre sugli ordini"
+
+#: ../plugin-options/general-options.php:84
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"orders"
+msgstr ""
+"Scegli il protocollo di codici a barre che desideri utilizzare per creare un "
+"nuovo codice sugli ordini"
+
+#: ../plugin-options/general-options.php:90
+msgid "Show in order page"
+msgstr "Mostra nella pagina dell'ordine"
+
+#: ../plugin-options/general-options.php:92
+msgid "Set whether the barcode should be shown in order page or not"
+msgstr ""
+"Imposta se mostrare o meno il codice a barre nella pagina degli ordini "
+
+#: ../plugin-options/general-options.php:97
+msgid "Order barcode in emails"
+msgstr "Codice a barre dell'ordine nelle email"
+
+#: ../plugin-options/general-options.php:101
+msgid "Never show order barcode in emails"
+msgstr "Non mostrare mai il codice a barre dell'ordine nelle email"
+
+#: ../plugin-options/general-options.php:102
+msgid ""
+"Show order barcode only in emails sent after the order is set to 'completed'"
+msgstr ""
+"Mostra il codice a barre dell'ordine solo nelle email inviate dopo che "
+"l'ordine è stato impostato a 'completato'"
+
+#: ../plugin-options/general-options.php:103
+msgid "Show order barcode on every email"
+msgstr "Mostra il codice a barre dell'ordine in ogni email"
+
+#: ../plugin-options/general-options.php:108
+msgid "Product barcode in emails"
+msgstr "Codice a barre del prodotto nelle email"
+
+#: ../plugin-options/tool-options.php:11
+msgid "Generate Barcode"
+msgstr "Crea il codice a barre"
+
+#: ../plugin-options/tool-options.php:16
+msgid "Apply Barcodes to products"
+msgstr "Applica i codici a barre ai prodotti"
+
+#: ../plugin-options/tool-options.php:18
+msgid "Apply automatically barcode to all products"
+msgstr "Applica automaticamente i codici a barre su tutti i prodotti "
+
+#: ../templates/shortcode/ywbc-barcode-actions.php:18
+msgctxt "placeholder for barcode text field"
+msgid "Type or scan the barcode value here..."
+msgstr "Inserisci o scansiona il valore del codice a barre qui..."
+
+#: ../templates/shortcode/ywbc-barcode-actions.php:25
+msgid "Enter the barcode here"
+msgstr "Inserisci il codice a barre qui"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:3
+#: ../templates/shortcode/ywbc-search-orders.php:13
+msgid "Order"
+msgstr "Ordine"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:4
+msgid "Date"
+msgstr "Data"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:5
+#: ../templates/shortcode/ywbc-search-orders.php:17
+msgid "Status"
+msgstr "Stato"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:6
+msgid "Total"
+msgstr "Totale"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:15
+msgid "Order list"
+msgstr "Lista ordini"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:16
+msgid "The following orders have been set to completed"
+msgstr "I seguenti ordini sono stati impostati a completati"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:42
+msgctxt "hash tag before order number"
+msgid "#"
+msgstr "#"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:53
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s per %s articolo"
+msgstr[1] "%s per %s articoli"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:60
+msgid "View"
+msgstr "Visualizza"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:71
+#: ../templates/shortcode/ywbc-search-orders.php:46
+msgid "No order matches the selected criteria"
+msgstr "Nessun ordine corrisponde ai criteri selezionati"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:20
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:24
+msgid "Guest"
+msgstr "Ospite"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:29
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s da  %2$s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:43
+#, php-format
+msgctxt "Order status label"
+msgid "Status: %1$s"
+msgstr "Stato: %s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:45
+#, php-format
+msgctxt "Order amount"
+msgid "Total: %s for %s item"
+msgid_plural "Total:%s for %s items"
+msgstr[0] "Totale: %s per %s articolo"
+msgstr[1] "Totale: %s per %s articoli"
+
+#: ../templates/shortcode/ywbc-search-orders.php:21
+#: ../templates/shortcode/ywbc-search-products.php:16
+msgid "Barcode"
+msgstr "Codice a barre"
+
+#: ../templates/shortcode/ywbc-search-products-row.php:23
+#, php-format
+msgid "Stock units: %s"
+msgstr "Unità di magazzino: %s "
+
+#: ../templates/shortcode/ywbc-search-products-row.php:25
+msgid "Manage stock not enabled"
+msgstr "Gestione del magazzino non attivata"
+
+#: ../templates/shortcode/ywbc-search-products.php:12
+msgid "Product"
+msgstr "Prodotto"
+
+#: ../templates/shortcode/ywbc-search-products.php:20
+msgid "Stock status"
+msgstr "Stato del magazzino"
+
+#: ../templates/shortcode/ywbc-search-products.php:45
+msgid "No product matches the selected criteria"
+msgstr "Nessun prodotto corrisponde ai criteri selezionati"
+
+#~ msgid "Enable for products"
+#~ msgstr "Abilita per i prodotti"
+
+#~ msgid "Enable the barcode generation for the products"
+#~ msgstr "Abilita la generazione dei barcode per i prodotti."
+
+#~ msgid "Create on new products"
+#~ msgstr "Crea per i nuovi prodotti"
+
+#~ msgid "Create automatically for new products"
+#~ msgstr "Genera automaticamente per i nuovi prodotti"
+
+#~ msgid ""
+#~ "Choose the barcode protocol to be used while generatin barcode value for "
+#~ "products"
+#~ msgstr ""
+#~ "Seleziona il protocollo predefinito da utilizzare per la generazione dei "
+#~ "barcode per i prodotti"
+
+#~ msgid ""
+#~ "Enable if you want to enter the barcode value for the products manually"
+#~ msgstr "Permetti di inserire il barcode manualmente sui prodotti"
+
+#~ msgid "Show on product page"
+#~ msgstr "Mostra nella pagina prodotto"
+
+#~ msgid "Choose if you want to show the barcode image on product page"
+#~ msgstr ""
+#~ "Sceglie se se il barcode deve essere visualizzato nella pagina prodotto"
+
+#~ msgid "Enable for orders"
+#~ msgstr "Abilita per gli ordini"
+
+#~ msgid "Enable the generation of the barcode for the orders"
+#~ msgstr "Abilita la generazione dei barcode per gli ordini."
+
+#~ msgid "Generate for new orders"
+#~ msgstr "Genera per i nuovi ordini"
+
+#~ msgid "Generate automatically the barcode for new orders"
+#~ msgstr "Genera automaticamente per i nuovi ordini"
+
+#~ msgid "Barcode protocol for orders"
+#~ msgstr "Protocollo barcode per gli ordini"
+
+#~ msgid ""
+#~ "Choose the barcode protocol to use while generating the barcode for orders"
+#~ msgstr ""
+#~ "Seleziona il protocollo predefinito da utilizzare per la generazione dei "
+#~ "barcode per gli ordini."
+
+#~ msgid "This review is closed for replies"
+#~ msgstr "This review is closed to replies"
+
+#~ msgid "This review is closed for comments"
+#~ msgstr "This review is closed to comments"
+
+#~ msgid "Product id is in invalid format"
+#~ msgstr "Product id is an invalid format"
+
+#~ msgid "Voting/Reviews settings"
+#~ msgstr "Voting/Review settings"
+
+#~ msgid ""
+#~ "In the YIT Plugins tab you can find the YITH WooCommerce Advanced Reviews "
+#~ "options. With this menu, you can access to all the settings of our "
+#~ "plugins that you have activated."
+#~ msgstr ""
+#~ "In YIT Plugins tab you can find YITH WooCommerce Advanced Reviews "
+#~ "options. From this menu you can access all settings of YITH plugins "
+#~ "activated."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of YITH WooCommerce Advanced "
+#~ "Reviews under YIT Plugin -> Advanced Reviews instead of WooCommerce -> "
+#~ "Settings -> Advanced Reviews, as in the previous version. When one of our "
+#~ "plugins updates, a new voice will be added to this menu."
+#~ msgstr ""
+#~ "From now on, you can find all YITH WooCommerce Advanced Reviews options "
+#~ "in YIT Plugin -> Advanced Reviews instead of WooCommerce -> Settings -> "
+#~ "Advanced Reviews, as in the previous version. Any time one of our plugins "
+#~ "is updated, a new entry will be added to this menu."
+
+#~ msgid "The layout for this "
+#~ msgstr "Layout for this "
+
+#~ msgid ""
+#~ "The word used for the URL of each project (the slug of post if empty)"
+#~ msgstr ""
+#~ "Univocal identification name in the URL for each product (slug from post "
+#~ "if empty)"
+
+#~ msgid "Label Singular"
+#~ msgstr "Label in Singular"
+
+#~ msgid ""
+#~ "Set the label in singular to use for each label (the title of portfolio "
+#~ "if empty)"
+#~ msgstr "Set a label in singular (title of portfolio if empty)"
+
+#~ msgid "Label Plural"
+#~ msgstr "Label in Plural"
+
+#~ msgid ""
+#~ "Set the label in plural to use for each label (the title of portfolio if "
+#~ "empty)"
+#~ msgstr "Set a label in plural (title of portfolio if empty)"
+
+#~ msgid ""
+#~ "If you want to use a category section for the portfolio, set the name of "
+#~ "taxonomy. Name should be in slug form (must not contain capital letters "
+#~ "or spaces) and not more than 32 characters long (database structure "
+#~ "restriction)."
+#~ msgstr ""
+#~ "If you want to use categories in the portfolio, set a name for taxonomy. "
+#~ "Name should be a slug (must not contain capital letters nor spaces) and "
+#~ "must not be more than 32 characters long (database structure restriction)."
+
+#~ msgid "Set the word to use in the URL for each category page."
+#~ msgstr "Set the word for each category page URL."
+
+#~ msgid "The layout for single page of this portfolio"
+#~ msgstr "Layout for single page of this portfolio"
+
+#~ msgid "Show the frontend of the %s"
+#~ msgstr "Show frontend of the %s"
+
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr "The changes you made will be lost if you leave this page."
+
+#~ msgid ""
+#~ "If you continue with this action, you will reset all options are in this "
+#~ "page."
+#~ msgstr ""
+#~ "If you go on with this action, you will reset all options in this page."
+
+#~ msgid ""
+#~ "The element you have written is already exists. Please, add another name."
+#~ msgstr "This element already exists. Please, enter a different name."
+
+#~ msgid "An error encoured during during import. Please try again."
+#~ msgstr "An error has occurred during import. Please try again."
+
+#~ msgid "The file you have insert doesn't valid."
+#~ msgstr "The file inserted is not valid."
+
+#~ msgid "I'm sorry, the import featured is disabled."
+#~ msgstr "Sorry, import is disabled."
+
+#~ msgid "Sorting done correctly."
+#~ msgstr "Sorting successful."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                     For every installation of our new "
+#~ "plugins, a new voice will be added to access to the customization "
+#~ "settings."
+#~ msgstr ""
+#~ "From now on, you can find all plugin options in YIT Plugin menu.\n"
+#~ "                                     For each plugin installed, "
+#~ "customization settings will be available as a new entry in YIT Plugin "
+#~ "menu."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                    When one of our plugins updates, a "
+#~ "new voice will be added to this menu.\n"
+#~ "                                    For example, after the update, the "
+#~ "options from the plugins (YITH WooCommerce Wishlist, YITH WooCommerce "
+#~ "Ajax Search, etc.)\n"
+#~ "                                    will be removed from the previous "
+#~ "location and moved under the YIT Plugin tab."
+#~ msgstr ""
+#~ "From now on, you can find all the options of your plugins in YIT Plugin "
+#~ "menu.\n"
+#~ "                                    Any time one of our plugins is "
+#~ "updated, a new entry will be added to this menu.\n"
+#~ "                                    For example, after update, plugin "
+#~ "options (such for YITH WooCommerce Wishlist, YITH WooCommerce Ajax "
+#~ "Search, etc.)\n"
+#~ "                                    will be moved from previous location "
+#~ "to YIT Plugin tab."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s "
+#~ "details</a>. <em>You have to activate the plugin on a single site of the "
+#~ "network to benefit from the automatic updates.</em>"
+#~ msgstr ""
+#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s "
+#~ "details</a>. <em>You have to activate the plugin on a single site of the "
+#~ "network to benefit from automatic updates.</em>"
+
+#~ msgid "%field% field can not be empty"
+#~ msgstr "%field% field cannot be empty"
+
+#~ msgid "%field_1% and %field_2% fields can not be empty"
+#~ msgstr "%field_1% and %field_2% fields cannot be empty"
+
+#~ msgid "Software has been deactive"
+#~ msgstr "Software has been deactivated"
+
+#~ msgid "Licence key has be banned"
+#~ msgstr "Licence key has been banned"
+
+#~ msgid "To Active"
+#~ msgstr "Activation"
+
+#~ msgid "Insert the title of field."
+#~ msgstr "Insert title for the field."
+
+#~ msgid ""
+#~ "REQUIRED: The identification name of this field, that you can insert into "
+#~ "body email configuration. <strong>Note:</strong>Use only lowercase "
+#~ "characters and underscores."
+#~ msgstr ""
+#~ "REQUIRED: Field identification name to be entered into email body. "
+#~ "<strong>Note:</strong>Use only lowercase characters and underscores."
+
+#~ msgid "Select the type of this field."
+#~ msgstr "Select type for this field."
+
+#~ msgid "Select this if it's the email where you can reply."
+#~ msgstr "Select this if it is the email you can reply to."
+
+#~ msgid ""
+#~ "Insert an additional class(es) (separateb by comma) for more "
+#~ "personalization."
+#~ msgstr ""
+#~ "Insert additional class(es) (separated by commas) for more "
+#~ "personalization."
+
+#~ msgid "Choose how much long will be the field."
+#~ msgstr "Set field length."
+
+#~ msgid "The content of the tab. (HTML is supported)"
+#~ msgstr "Content of the tab. (HTML is supported)"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "Left sidebar"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "Right sidebar"
+
+#~ msgid "Add a title field on reviews."
+#~ msgstr "Add a title field to reviews."
+
+#~ msgid "Set maximum number of attachments selectable (0 = no limit)."
+#~ msgstr ""
+#~ "Set maximum number of attachments that can be selected (0 = no limit)."
+
+#~ msgid "Reviews summary options"
+#~ msgstr "Review summary options"
+
+#~ msgid "Fixed bars color"
+#~ msgstr "Fixed bar color"
+
+#~ msgid "Percentage bars color"
+#~ msgstr "Percentage bar color"
+
+#~ msgid "Show people's votes"
+#~ msgstr "Show review votes"
+
+#~ msgid "Add a string stating how many people's found the review useful."
+#~ msgstr "Add a string stating how many people found the review useful."
+
+#~ msgid "Customers reviews"
+#~ msgstr "Customers' reviews"

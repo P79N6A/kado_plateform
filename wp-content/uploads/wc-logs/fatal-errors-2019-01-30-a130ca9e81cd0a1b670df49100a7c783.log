@@ -1,0 +1,89 @@
+2019-01-30T10:54:36+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 155
+
+2019-01-30T12:05:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\yith-woocommerce-pdf-invoice\lib\class.yith-document.php à la ligne 2
+
+2019-01-30T12:05:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-30T12:51:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\yith-woocommerce-product-slider-carousel\templates\admin\ajax-category.php à la ligne 2
+
+2019-01-30T14:17:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor-pro\modules\carousel\module.php à la ligne 6
+
+2019-01-30T14:26:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-30T14:44:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\l10n.php à la ligne 1230
+
+2019-01-30T15:01:15+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ')' dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:01:22+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ')' dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:01:22+00:00 CRITICAL syntax error, unexpected ' ' (T_STRING), expecting ')' dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:29:04+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php:15
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): rayon_meta_boxes('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(44): do_action('admin_init')
+#4 {main}
+  thrown dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:31:11+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 26
+
+2019-01-30T15:33:08+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 27
+
+2019-01-30T15:33:10+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php:15
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): rayon_meta_boxes('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(44): do_action('admin_init')
+#4 {main}
+  thrown dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:35:27+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php:15
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): rayon_meta_boxes('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(44): do_action('admin_init')
+#4 {main}
+  thrown dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:35:31+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php:15
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): rayon_meta_boxes('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(156): do_action('admin_init')
+#4 C:\xampp\htdocs\woocommerce\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:35:34+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php:15
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): rayon_meta_boxes('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(44): do_action('admin_init')
+#4 {main}
+  thrown dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-mbox\woocommerce-mbox.php à la ligne 15
+
+2019-01-30T15:45:02+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 22
+
+2019-01-30T15:45:03+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 22
+
+2019-01-30T15:45:04+00:00 CRITICAL syntax error, unexpected 'function' (T_FUNCTION) dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php à la ligne 22
+
+2019-01-30T15:45:21+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in C:\xampp\htdocs\woocommerce\wp-content\plugins\woo-product-slider\class\metabox.php:53
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): SP_WPS_MetaBox->add_generator_meta_box('post')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\functions.php(21): do_action('add_meta_boxes', 'post')
+#4 C:\xampp\htdocs\woocommerce\wp-settings.php(443): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\woocommerce\wp-config.php(94): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\woocommerce\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\woocommerce\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#9 {mai dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woo-product-slider\class\metabox.php à la ligne 53
+

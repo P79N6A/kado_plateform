@@ -1,0 +1,65 @@
+*** WooCommerce - Facebook Tab ***
+
+2017.03.10 - version 1.2.0
+ * column fix
+
+2015.10.08 - version 1.1.9
+ * fix for variable products
+
+2015.08.02 - version 1.1.8
+ * removed more theme actions/filters that were messing with layout
+
+2014.11.27 - version 1.1.7
+ * better script and style control
+
+2014.11.17 - version 1.1.6
+ * hardcode 4 columns
+
+2014.10.28 - version 1.1.5
+ * https improvement
+
+2014.01.23 - version 1.1.4
+ * WC 2.1 Compat
+
+2013.06.12 - version 1.1.3
+ * Fix issue with "select options" button
+
+2013.04.26 - version 1.1.2
+ * Template files with theme dir override support (see /templates/*)
+ * New stylesheet
+ * New (optional) dynamic sidebar
+
+2012.12.04 - version 1.1.0
+ * WC 2.0 Compat
+
+2012.12.04 - version 1.0.8
+ * New updater
+
+2012.03.27 - version 1.0.7
+ * Fixed plugin updater
+
+2012.03.27 - version 1.0.6
+ * Fixes
+ * New plugin updater
+
+2012.03.11 - version 1.0.5
+ * Using is_product() instead of checking $wp_query
+
+2012.03.08 - version 1.0.4
+ * Making compatible with more themes
+ * Show options button in new window fix
+ * Fixing ajax error (again)
+
+2012.03.01 - version 1.0.3
+ * Compatibility fix with another FB tab plugin
+ * Fixing ajax error
+
+2012.02.19 - version 1.0.2
+ * Small CSS fixes
+ * Include WooCommerce stylesheet regardless for tab stylings etc
+
+2012.02.17 - version 1.0.1
+ * Small CSS fixes
+
+2012.02.17 - version 1.0
+ * First Release

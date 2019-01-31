@@ -1,0 +1,1963 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Compare Products Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-11 15:44+0700\n"
+"PO-Revision-Date: 2014-06-11 15:44+0700\n"
+"Last-Translator: Nguyen Cong Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-interface.php:129
+msgid "Settings successfully saved."
+msgstr ""
+
+#: admin/admin-interface.php:137
+msgid "Error: Settings can not save."
+msgstr ""
+
+#: admin/admin-interface.php:145
+msgid "Settings successfully reseted."
+msgstr ""
+
+#: admin/admin-interface.php:166
+msgid "Thin"
+msgstr ""
+
+#: admin/admin-interface.php:167
+msgid "Thin/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:168
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-interface.php:169
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-interface.php:170
+msgid "Bold"
+msgstr ""
+
+#: admin/admin-interface.php:171
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:181
+msgid "Solid"
+msgstr ""
+
+#: admin/admin-interface.php:182
+msgid "Double"
+msgstr ""
+
+#: admin/admin-interface.php:183
+msgid "Dashed"
+msgstr ""
+
+#: admin/admin-interface.php:184
+msgid "Dotted"
+msgstr ""
+
+#: admin/admin-interface.php:185
+msgid "Groove"
+msgstr ""
+
+#: admin/admin-interface.php:186
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:187
+msgid "Inset"
+msgstr ""
+
+#: admin/admin-interface.php:188
+msgid "Outset"
+msgstr ""
+
+#: admin/admin-interface.php:1354 admin/admin-interface.php:1444
+#: admin/admin-interface.php:1473
+#: admin/settings/comparison-page/add-to-cart-settings.php:195
+#: admin/settings/comparison-page/global-settings.php:205
+#: admin/settings/comparison-page/global-settings.php:211
+#: admin/settings/comparison-page/print-page-settings.php:196
+#: admin/settings/comparison-page/product-prices-settings.php:193
+#: admin/settings/gridview-style/global-settings.php:193
+#: admin/settings/gridview-style/view-compare-settings.php:195
+#: admin/settings/product-page/compare-tab-settings.php:193
+#: admin/settings/product-page/compare-tab-settings.php:212
+#: admin/settings/product-page/compare-tab-settings.php:218
+#: admin/settings/product-page/compare-tab-settings.php:224
+#: admin/settings/product-page/compare-tab-settings.php:230
+#: admin/settings/product-page/global-settings.php:207
+#: admin/settings/product-page/global-settings.php:264
+#: admin/settings/product-page/global-settings.php:281
+#: admin/settings/product-page/view-compare-settings.php:195
+#: admin/settings/widget-style/product-thumbnails-settings.php:193
+#: admin/settings/widget-style/widget-title-settings.php:195
+#: admin/settings/widget-style/widget-title-settings.php:201
+msgid "ON"
+msgstr ""
+
+#: admin/admin-interface.php:1355 admin/admin-interface.php:1445
+#: admin/admin-interface.php:1474
+#: admin/settings/comparison-page/add-to-cart-settings.php:196
+#: admin/settings/comparison-page/global-settings.php:206
+#: admin/settings/comparison-page/global-settings.php:212
+#: admin/settings/comparison-page/print-page-settings.php:197
+#: admin/settings/comparison-page/product-prices-settings.php:194
+#: admin/settings/gridview-style/global-settings.php:194
+#: admin/settings/gridview-style/view-compare-settings.php:196
+#: admin/settings/product-page/compare-tab-settings.php:194
+#: admin/settings/product-page/compare-tab-settings.php:213
+#: admin/settings/product-page/compare-tab-settings.php:219
+#: admin/settings/product-page/compare-tab-settings.php:225
+#: admin/settings/product-page/compare-tab-settings.php:231
+#: admin/settings/product-page/global-settings.php:208
+#: admin/settings/product-page/global-settings.php:265
+#: admin/settings/product-page/global-settings.php:282
+#: admin/settings/product-page/view-compare-settings.php:196
+#: admin/settings/widget-style/product-thumbnails-settings.php:194
+#: admin/settings/widget-style/widget-title-settings.php:196
+#: admin/settings/widget-style/widget-title-settings.php:202
+msgid "OFF"
+msgstr ""
+
+#: admin/admin-interface.php:1515
+msgid "Width"
+msgstr ""
+
+#: admin/admin-interface.php:1517
+msgid "Height"
+msgstr ""
+
+#: admin/admin-interface.php:1519
+msgid "Hard Crop"
+msgstr ""
+
+#: admin/admin-interface.php:1596
+msgid "-- Default Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1607
+msgid "-- Google Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:1648
+msgid "Preview your customized typography settings"
+msgstr ""
+
+#: admin/admin-interface.php:1782 admin/admin-interface.php:2041
+msgid "Preview your customized border settings"
+msgstr ""
+
+#: admin/admin-interface.php:1791 admin/admin-interface.php:2032
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin-interface.php:1792 admin/admin-interface.php:2033
+msgid "Square"
+msgstr ""
+
+#: admin/admin-interface.php:1802 admin/admin-interface.php:2046
+msgid "Top Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1822 admin/admin-interface.php:2066
+msgid "Top Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1842 admin/admin-interface.php:2086
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1862 admin/admin-interface.php:2106
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:1955
+msgid "Preview your customized border styles settings"
+msgstr ""
+
+#: admin/admin-interface.php:2167
+msgid "YES"
+msgstr ""
+
+#: admin/admin-interface.php:2168
+msgid "NO"
+msgstr ""
+
+#: admin/admin-interface.php:2182
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2200
+msgid "Vertical Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2218
+msgid "Blur Distance"
+msgstr ""
+
+#: admin/admin-interface.php:2236
+msgid "Spread Size"
+msgstr ""
+
+#: admin/admin-interface.php:2254
+msgid "INNER"
+msgstr ""
+
+#: admin/admin-interface.php:2255
+msgid "OUTER"
+msgstr ""
+
+#: admin/admin-interface.php:2273
+msgid "Preview your customized box shadow settings"
+msgstr ""
+
+#: admin/admin-interface.php:2509
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin-interface.php:2510
+msgid "Reset Settings"
+msgstr ""
+
+#: admin/admin-pages/admin-product-comparison-page.php:63
+msgid "Compare Settings & Style"
+msgstr ""
+
+#: admin/admin-pages/admin-product-comparison-page.php:64
+msgid "Settings & Style"
+msgstr ""
+
+#: admin/admin-ui.php:133
+#, php-format
+msgid "Settings inside this yellow border are %s Features."
+msgstr ""
+
+#: admin/admin-ui.php:135
+#, php-format
+msgid ""
+"Upgrade to the <a href=\"%s\" target=\"_blank\">%s</a> to activate these "
+"settings."
+msgstr ""
+
+#: admin/admin-ui.php:137 admin/admin-ui.php:139
+msgid "Pro Version"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:93
+msgid "Compare Attribute successfully removed"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:122
+#: admin/classes/class-wc-compare-features-panel.php:140
+#: admin/classes/class-wc-compare-products.php:87
+#: admin/classes/class-wc-compare-products.php:121
+#: admin/classes/class-wc-compare-products.php:317
+msgid "Edit"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:141
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:141
+msgid "from"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:141
+msgid "Remove"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:147
+msgid "You have not assigned any Attributes to this category yet. No Hurry!"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:163
+msgid "Manage Compare Categories and Attributes"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:186
+msgid "Compare Category Attributes"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:260
+msgid "You just save the order for Compare Attributes."
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:268
+msgid ""
+"All Product Categories that have the Comparison Feature turned ON are auto "
+"shown below."
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:269
+msgid ""
+"Use the dropdown arrow on each category to view all Product Attributes that "
+"have been assigned to that Product Category."
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:270
+msgid ""
+"Drag and drop to sort the Attributes display order in each category. This is "
+"the order that Attributes will show on the front end in the Comparison table."
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:273
+msgid "Don't show again"
+msgstr ""
+
+#: admin/classes/class-wc-compare-features-panel.php:274
+msgid "Dismiss"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:76
+#: admin/classes/class-wc-compare-products.php:110
+msgid "Activated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:77
+#: admin/classes/class-wc-compare-products.php:111
+msgid "Deactivated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:209
+#: classes/class-wc-compare-metabox.php:80
+#: classes/class-wc-compare-metabox.php:215
+msgid "Activate Compare Attribute for this Product"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:211
+#: classes/class-wc-compare-metabox.php:82
+#: classes/class-wc-compare-metabox.php:217
+msgid "Select a  Compare Category for this Product"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:213
+#: classes/class-wc-compare-metabox.php:84
+#: classes/class-wc-compare-metabox.php:219
+msgid "Select..."
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:230
+msgid "Update"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:231
+msgid "Cancel"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:277
+msgid "Compare Product Attribute Fields Successfully updated."
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:295
+msgid "WooCommerce Compare Products Manager"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:312
+msgid "No"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:313
+#: admin/classes/class-wc-compare-products.php:320
+msgid "Product Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:314
+msgid "Product Category"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:315
+#: classes/class-wc-compare-categories.php:125
+msgid "Compare Category"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:316
+msgid "Activated / Deactivated"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:325
+msgid "Products"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:326
+msgid "Find Product Name"
+msgstr ""
+
+#: admin/classes/class-wc-compare-products.php:347
+msgid "Product Compare Attribute Fields"
+msgstr ""
+
+#: admin/compare_init.php:8 admin/compare_init.php:353
+#: classes/class-wc-compare-filter.php:43
+#: includes/updates/compare-update-2.0.6.php:4
+msgid "Product Comparison"
+msgstr ""
+
+#: admin/compare_init.php:26 admin/compare_init.php:303
+msgid ""
+"Connection Error! Could not reach the a3API on Amazon Cloud, the network may "
+"be busy. Please try again in a few minutes."
+msgstr ""
+
+#: admin/compare_init.php:43 admin/compare_init.php:321
+#: upgrade/plugin_upgrade.php:130
+msgid "Error: "
+msgstr ""
+
+#: admin/compare_init.php:327
+msgid "Thank you. This Authorization Key is valid."
+msgstr ""
+
+#: admin/compare_init.php:353 classes/class-wc-compare-filter.php:43
+msgid "WC Compare"
+msgstr ""
+
+#: admin/compare_init.php:361
+msgid "No find the encryp.inc file. Please copy encryp.inc file to folder"
+msgstr ""
+
+#: admin/compare_init.php:366
+msgid "encryp.inc was modified. Please keep it by default"
+msgstr ""
+
+#: admin/compare_init.php:370 upgrade/plugin_upgrade.php:27
+msgid "Enter Your Plugin Authorization Key"
+msgstr ""
+
+#: admin/compare_init.php:375 upgrade/plugin_upgrade.php:27
+msgid "Authorization Key"
+msgstr ""
+
+#: admin/compare_init.php:378
+msgid "Validate"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:149
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:169
+msgid "View File"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:188
+msgid "Use this Image"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:189
+msgid "Use as"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:199
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:81
+msgid "Add to Cart Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:82
+msgid "Error: Add to Cart Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:83
+msgid "Add to Cart Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:140
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:184
+msgid "Add to Cart Feature"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:188
+msgid "Add To Cart Link"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:206
+msgid "Add To Cart Button / Hyperlink"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:210
+#: admin/settings/comparison-page/close-window-button-settings.php:186
+#: admin/settings/comparison-page/print-page-settings.php:229
+#: admin/settings/gridview-style/compare-button-settings.php:185
+#: admin/settings/product-page/compare-button-settings.php:185
+#: admin/settings/product-page/view-compare-settings.php:210
+#: admin/settings/widget-style/clear-all-items-settings.php:185
+#: admin/settings/widget-style/compare-button-settings.php:185
+msgid "Button or Hyperlink Type"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:217
+#: admin/settings/comparison-page/close-window-button-settings.php:193
+#: admin/settings/comparison-page/print-page-settings.php:236
+#: admin/settings/gridview-style/compare-button-settings.php:192
+#: admin/settings/product-page/compare-button-settings.php:192
+#: admin/settings/product-page/view-compare-settings.php:217
+#: admin/settings/widget-style/clear-all-items-settings.php:192
+#: admin/settings/widget-style/compare-button-settings.php:192
+msgid "Button"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:218
+#: admin/settings/comparison-page/close-window-button-settings.php:194
+#: admin/settings/comparison-page/print-page-settings.php:237
+#: admin/settings/gridview-style/compare-button-settings.php:193
+#: admin/settings/product-page/compare-button-settings.php:193
+#: admin/settings/product-page/view-compare-settings.php:218
+#: admin/settings/widget-style/clear-all-items-settings.php:193
+#: admin/settings/widget-style/compare-button-settings.php:193
+msgid "Hyperlink"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:221
+msgid "Added To Cart Success Icon"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:222
+#: admin/settings/gridview-style/compare-button-settings.php:197
+#: admin/settings/product-page/compare-button-settings.php:197
+msgid "Upload a 16px x 16px image, support .jpg, .pgn, .jpeg, .gif formats."
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:230
+msgid "Add To Cart Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:235
+#: admin/settings/comparison-page/close-window-button-settings.php:203
+#: admin/settings/comparison-page/print-page-settings.php:246
+#: admin/settings/gridview-style/compare-button-settings.php:210
+#: admin/settings/gridview-style/view-compare-settings.php:211
+#: admin/settings/product-page/compare-button-settings.php:210
+#: admin/settings/product-page/view-compare-settings.php:227
+#: admin/settings/widget-style/clear-all-items-settings.php:227
+#: admin/settings/widget-style/compare-button-settings.php:215
+msgid "Hyperlink Text"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:238
+#: admin/settings/comparison-page/add-to-cart-settings.php:262
+msgid "Add to cart"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:241
+#: admin/settings/comparison-page/close-window-button-settings.php:209
+#: admin/settings/comparison-page/print-page-settings.php:252
+#: admin/settings/gridview-style/compare-button-settings.php:216
+#: admin/settings/gridview-style/view-compare-settings.php:217
+#: admin/settings/product-page/compare-button-settings.php:216
+#: admin/settings/product-page/view-compare-settings.php:233
+#: admin/settings/widget-style/clear-all-items-settings.php:233
+#: admin/settings/widget-style/compare-button-settings.php:221
+msgid "Hyperlink Font"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:247
+#: admin/settings/comparison-page/close-window-button-settings.php:215
+#: admin/settings/comparison-page/print-page-settings.php:258
+#: admin/settings/gridview-style/compare-button-settings.php:223
+#: admin/settings/gridview-style/view-compare-settings.php:224
+#: admin/settings/product-page/compare-button-settings.php:223
+#: admin/settings/product-page/view-compare-settings.php:240
+#: admin/settings/widget-style/clear-all-items-settings.php:240
+#: admin/settings/widget-style/compare-button-settings.php:228
+msgid "Hyperlink Hover Colour"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:254
+msgid "Add To Cart Button Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:259
+#: admin/settings/comparison-page/close-window-button-settings.php:227
+#: admin/settings/comparison-page/print-page-settings.php:270
+#: admin/settings/gridview-style/compare-button-settings.php:235
+#: admin/settings/product-page/compare-button-settings.php:235
+#: admin/settings/product-page/view-compare-settings.php:252
+#: admin/settings/widget-style/clear-all-items-settings.php:252
+#: admin/settings/widget-style/compare-button-settings.php:240
+msgid "Button Text"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:265
+#: admin/settings/comparison-page/close-window-button-settings.php:233
+#: admin/settings/comparison-page/print-page-settings.php:276
+#: admin/settings/gridview-style/compare-button-settings.php:241
+#: admin/settings/product-page/compare-button-settings.php:241
+#: admin/settings/product-page/view-compare-settings.php:258
+#: admin/settings/widget-style/clear-all-items-settings.php:258
+#: admin/settings/widget-style/compare-button-settings.php:246
+msgid "Button Padding"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:266
+#: admin/settings/comparison-page/close-window-button-settings.php:234
+#: admin/settings/comparison-page/print-page-settings.php:277
+#: admin/settings/gridview-style/compare-button-settings.php:242
+#: admin/settings/product-page/compare-button-settings.php:242
+#: admin/settings/product-page/view-compare-settings.php:259
+#: admin/settings/widget-style/clear-all-items-settings.php:259
+#: admin/settings/widget-style/compare-button-settings.php:247
+msgid "Padding from Button text to Button border"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:271
+#: admin/settings/comparison-page/close-window-button-settings.php:239
+#: admin/settings/comparison-page/print-page-settings.php:282
+#: admin/settings/gridview-style/compare-button-settings.php:247
+#: admin/settings/product-page/compare-button-settings.php:247
+#: admin/settings/product-page/view-compare-settings.php:264
+#: admin/settings/widget-style/clear-all-items-settings.php:264
+#: admin/settings/widget-style/compare-button-settings.php:252
+#: admin/settings/widget-style/widget-title-settings.php:248
+msgid "Top/Bottom"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:277
+#: admin/settings/comparison-page/close-window-button-settings.php:245
+#: admin/settings/comparison-page/print-page-settings.php:288
+#: admin/settings/gridview-style/compare-button-settings.php:253
+#: admin/settings/product-page/compare-button-settings.php:253
+#: admin/settings/product-page/view-compare-settings.php:270
+#: admin/settings/widget-style/clear-all-items-settings.php:270
+#: admin/settings/widget-style/compare-button-settings.php:258
+#: admin/settings/widget-style/widget-title-settings.php:254
+msgid "Left/Right"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:284
+#: admin/settings/comparison-page/close-window-button-settings.php:252
+#: admin/settings/comparison-page/page-style-settings.php:184
+#: admin/settings/comparison-page/page-style-settings.php:202
+#: admin/settings/comparison-page/print-page-settings.php:295
+#: admin/settings/gridview-style/compare-button-settings.php:260
+#: admin/settings/product-page/compare-button-settings.php:260
+#: admin/settings/product-page/view-compare-settings.php:277
+#: admin/settings/widget-style/clear-all-items-settings.php:277
+#: admin/settings/widget-style/compare-button-settings.php:265
+msgid "Background Colour"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:285
+#: admin/settings/comparison-page/add-to-cart-settings.php:292
+#: admin/settings/comparison-page/add-to-cart-settings.php:300
+#: admin/settings/comparison-page/close-window-button-settings.php:253
+#: admin/settings/comparison-page/close-window-button-settings.php:260
+#: admin/settings/comparison-page/close-window-button-settings.php:268
+#: admin/settings/comparison-page/page-style-settings.php:185
+#: admin/settings/comparison-page/page-style-settings.php:203
+#: admin/settings/comparison-page/print-page-settings.php:296
+#: admin/settings/comparison-page/print-page-settings.php:303
+#: admin/settings/comparison-page/print-page-settings.php:311
+#: admin/settings/comparison-page/table-content-style-settings.php:228
+#: admin/settings/comparison-page/table-style-settings.php:185
+#: admin/settings/comparison-page/table-style-settings.php:192
+#: admin/settings/gridview-style/compare-button-settings.php:261
+#: admin/settings/gridview-style/compare-button-settings.php:268
+#: admin/settings/gridview-style/compare-button-settings.php:276
+#: admin/settings/product-page/compare-button-settings.php:261
+#: admin/settings/product-page/compare-button-settings.php:268
+#: admin/settings/product-page/compare-button-settings.php:276
+#: admin/settings/product-page/view-compare-settings.php:278
+#: admin/settings/product-page/view-compare-settings.php:285
+#: admin/settings/product-page/view-compare-settings.php:293
+#: admin/settings/widget-style/clear-all-items-settings.php:278
+#: admin/settings/widget-style/clear-all-items-settings.php:285
+#: admin/settings/widget-style/clear-all-items-settings.php:293
+#: admin/settings/widget-style/compare-button-settings.php:266
+#: admin/settings/widget-style/compare-button-settings.php:273
+#: admin/settings/widget-style/compare-button-settings.php:281
+#: admin/settings/widget-style/product-thumbnails-settings.php:230
+#: admin/settings/widget-style/widget-title-settings.php:280
+msgid "Default"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:291
+#: admin/settings/comparison-page/close-window-button-settings.php:259
+#: admin/settings/comparison-page/print-page-settings.php:302
+#: admin/settings/gridview-style/compare-button-settings.php:267
+#: admin/settings/product-page/compare-button-settings.php:267
+#: admin/settings/product-page/view-compare-settings.php:284
+#: admin/settings/widget-style/clear-all-items-settings.php:284
+#: admin/settings/widget-style/compare-button-settings.php:272
+msgid "Background Colour Gradient From"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:299
+#: admin/settings/comparison-page/close-window-button-settings.php:267
+#: admin/settings/comparison-page/print-page-settings.php:310
+#: admin/settings/gridview-style/compare-button-settings.php:275
+#: admin/settings/product-page/compare-button-settings.php:275
+#: admin/settings/product-page/view-compare-settings.php:292
+#: admin/settings/widget-style/clear-all-items-settings.php:292
+#: admin/settings/widget-style/compare-button-settings.php:280
+msgid "Background Colour Gradient To"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:306
+#: admin/settings/comparison-page/close-window-button-settings.php:274
+#: admin/settings/comparison-page/print-page-settings.php:317
+#: admin/settings/gridview-style/compare-button-settings.php:282
+#: admin/settings/product-page/compare-button-settings.php:282
+#: admin/settings/product-page/view-compare-settings.php:299
+#: admin/settings/widget-style/clear-all-items-settings.php:299
+#: admin/settings/widget-style/compare-button-settings.php:287
+msgid "Button Border"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:312
+#: admin/settings/comparison-page/close-window-button-settings.php:280
+#: admin/settings/comparison-page/print-page-settings.php:323
+#: admin/settings/gridview-style/compare-button-settings.php:288
+#: admin/settings/product-page/compare-button-settings.php:288
+#: admin/settings/product-page/view-compare-settings.php:305
+#: admin/settings/widget-style/clear-all-items-settings.php:305
+#: admin/settings/widget-style/compare-button-settings.php:293
+msgid "Button Font"
+msgstr ""
+
+#: admin/settings/comparison-page/add-to-cart-settings.php:318
+#: admin/settings/comparison-page/close-window-button-settings.php:286
+#: admin/settings/comparison-page/print-page-settings.php:329
+#: admin/settings/gridview-style/compare-button-settings.php:294
+#: admin/settings/product-page/compare-button-settings.php:294
+#: admin/settings/product-page/view-compare-settings.php:311
+#: admin/settings/widget-style/clear-all-items-settings.php:311
+#: admin/settings/widget-style/compare-button-settings.php:299
+msgid "Button Shadow"
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:81
+msgid "Close Window Button Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:82
+msgid "Error: Close Window Button Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:83
+msgid "Close Window Button Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:138
+msgid "Close Window Button"
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:182
+msgid "Close Window Button / Hyperlink"
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:198
+msgid "Compare Table Close Window Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:206
+#: admin/settings/comparison-page/close-window-button-settings.php:230
+msgid "Close window"
+msgstr ""
+
+#: admin/settings/comparison-page/close-window-button-settings.php:222
+msgid "Compare Table Close Window Button Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:82
+msgid "Comparison Page Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:83
+msgid "Error: Comparison Page Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:84
+msgid "Comparison Page Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:137
+#: admin/settings/widget-style/compare-widget-settings.php:137
+msgid "General Settings"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:181
+msgid "Comparison Page Header Image"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:185
+msgid "Header Image"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:186
+msgid "Upload an image with formats .jpg, .pgn, .jpeg. Any size."
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:193
+msgid "Comparison Page Window"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:197
+msgid "Open Compare Table in"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:204
+msgid "On Screen Window"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:210
+msgid "New Window"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:210
+msgid ""
+"(Recommended - more mobile devise friendly, can't be blocked by pop-up "
+"blockers)"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:218
+msgid "Comparison Page Shortcode"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:219
+msgid ""
+"A 'Product Comparison' page with the shortcode [product_comparison_page] "
+"inserted should have been auto created on install. If not you need to "
+"manually create a new page and add the shortcode. Then set that page below "
+"so the plugin knows where to find it."
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:223
+msgid "Product Comparison Page"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:224
+msgid "Page contents"
+msgstr ""
+
+#: admin/settings/comparison-page/global-settings.php:229
+msgid "Select Page"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:81
+msgid "Comparison Page Style successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:82
+msgid "Error: Comparison Page Styles can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:83
+msgid "Comparison Page Style successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:136
+msgid "Page Style"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:180
+msgid "Comparison Page Header"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:191
+msgid "Bottom Border"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:198
+msgid "Comparison Page Body"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:210
+msgid "Comparison Empty Window Message"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:214
+msgid "Comparison Empty Window Message Text"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:215
+#: admin/settings/comparison-page/print-page-settings.php:212
+msgid "Default <code>'[default_value]'</code>"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:218
+#: admin/settings/widget-style/compare-widget-settings.php:200
+msgid "You do not have any product to compare."
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:221
+msgid "Text Alignment"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:222
+msgid "Default <code>Center</code>."
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:228
+#: admin/settings/comparison-page/table-content-style-settings.php:191
+#: admin/settings/comparison-page/table-style-settings.php:220
+#: admin/settings/gridview-style/global-settings.php:232
+#: admin/settings/product-page/global-settings.php:245
+#: admin/settings/widget-style/clear-all-items-settings.php:215
+#: admin/settings/widget-style/compare-button-settings.php:203
+#: admin/settings/widget-style/product-thumbnails-settings.php:224
+#: admin/settings/widget-style/widget-title-settings.php:226
+msgid "Left"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:229
+#: admin/settings/comparison-page/table-content-style-settings.php:192
+#: admin/settings/widget-style/clear-all-items-settings.php:216
+#: admin/settings/widget-style/compare-button-settings.php:204
+#: admin/settings/widget-style/widget-title-settings.php:227
+msgid "Center"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:230
+#: admin/settings/comparison-page/table-content-style-settings.php:193
+#: admin/settings/comparison-page/table-style-settings.php:225
+#: admin/settings/gridview-style/global-settings.php:238
+#: admin/settings/product-page/global-settings.php:251
+#: admin/settings/widget-style/clear-all-items-settings.php:217
+#: admin/settings/widget-style/compare-button-settings.php:205
+#: admin/settings/widget-style/product-thumbnails-settings.php:225
+#: admin/settings/widget-style/widget-title-settings.php:228
+msgid "Right"
+msgstr ""
+
+#: admin/settings/comparison-page/page-style-settings.php:234
+#: admin/settings/comparison-page/print-page-settings.php:218
+msgid "Message Font"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:81
+msgid "Print Page Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:82
+msgid "Error: Print Page Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:83
+msgid "Print Page Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:141
+msgid "Print Page"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:185
+msgid "Print Comparison Page Feature"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:189
+msgid "Print Page Feature"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:207
+msgid "Print Page Message"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:211
+msgid "Print Page Message Text"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:215
+msgid "Refine selections to 3 products and print!"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:225
+msgid "Compare Table Print Button / Hyperlink"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:241
+msgid "Compare Table Print Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:249
+#: admin/settings/comparison-page/print-page-settings.php:273
+msgid "Print this page"
+msgstr ""
+
+#: admin/settings/comparison-page/print-page-settings.php:265
+msgid "Compare Table Print Button Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:81
+msgid "Product Prices Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:82
+msgid "Error: Product Prices Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:83
+msgid "Product Prices Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:138
+msgid "Product Prices"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:182
+msgid "Product Prices On Compare Table"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:186
+msgid "Product Price"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:198
+msgid "Product Price Settings"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:203
+msgid "Product Price Position"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:204
+msgid "Default <code>Top and Bottom</code>."
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:210
+msgid "Top and Bottom"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:211
+msgid "Top Only"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:212
+msgid "Bottom Only"
+msgstr ""
+
+#: admin/settings/comparison-page/product-prices-settings.php:216
+msgid "Price Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:81
+msgid "Table Content Style successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:82
+msgid "Error: Table Content Style can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:83
+msgid "Table Content Style successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:136
+msgid "Table Content Style"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:180
+msgid "Compare Attribute Titles (Left Fixed Column)"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:184
+msgid "Title Alignment"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:185
+#: admin/settings/widget-style/clear-all-items-settings.php:209
+#: admin/settings/widget-style/compare-button-settings.php:197
+msgid "Default <code>Right</code>."
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:197
+msgid "Title Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:204
+msgid "Table Rows Attribute Values Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:208
+msgid "Values Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:215
+msgid "Empty Attribute Values Row Cell Display"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:219
+msgid "Default Text"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:220
+msgid "if nothing is enter in here nothing shows"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:227
+msgid "Cell Background Colour"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:234
+#: admin/settings/comparison-page/table-content-style-settings.php:245
+msgid "Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-content-style-settings.php:241
+msgid "Product Name Font"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:81
+msgid "Table Style successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:82
+msgid "Error: Table Style can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:83
+msgid "Table Style successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:136
+#: admin/settings/comparison-page/table-style-settings.php:180
+msgid "Table Style"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:184
+msgid "Table Heading Background Colour"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:191
+msgid "Alternate Rows Background Colour"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:198
+msgid "Table Border"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:204
+msgid "Table Row Padding"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:209
+#: admin/settings/gridview-style/global-settings.php:221
+#: admin/settings/product-page/global-settings.php:234
+#: admin/settings/widget-style/widget-title-settings.php:266
+msgid "Top"
+msgstr ""
+
+#: admin/settings/comparison-page/table-style-settings.php:214
+#: admin/settings/gridview-style/global-settings.php:226
+#: admin/settings/product-page/global-settings.php:239
+#: admin/settings/widget-style/widget-title-settings.php:272
+msgid "Bottom"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:81
+msgid "View Cart Settings successfully saved."
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:82
+msgid "Error: View Cart Settings can not save."
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:83
+msgid "View Cart Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:136
+msgid "View Cart"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:180
+msgid "View Cart Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:184
+msgid "View Cart Text"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:187
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:190
+msgid "View Cart Font"
+msgstr ""
+
+#: admin/settings/comparison-page/view-cart-settings.php:196
+msgid "View Cart Hover Colour"
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:81
+msgid "Product Card Compare Button Settings successfully saved."
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:82
+msgid "Error: Product Card Compare Button Settings can not save."
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:83
+msgid "Product Card Compare Button Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:137
+msgid "Product Card Compare Button"
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:181
+msgid "Product Card Compare Button / Hyperlink "
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:196
+#: admin/settings/product-page/compare-button-settings.php:196
+msgid "Compare Success Icon"
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:205
+msgid "Product Card Compare Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:213
+#: admin/settings/gridview-style/compare-button-settings.php:238
+msgid "Compare This"
+msgstr ""
+
+#: admin/settings/gridview-style/compare-button-settings.php:230
+msgid "Product Card Compare Button Styling"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:82
+msgid "Product Card Settings successfully saved."
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:83
+msgid "Error: Product Card Settings can not save."
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:84
+msgid "Product Card Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:139
+msgid "Product Card Settings"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:182
+msgid "Show Compare On Product Cards"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:186
+#: admin/settings/product-page/global-settings.php:200
+msgid "Compare Button / Text"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:198
+msgid "Compare Button / Linked text Postion"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:199
+msgid ""
+"Position applies to all product cards on the Shop, Product Category and "
+"Product Tag pages."
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:204
+#: admin/settings/product-page/global-settings.php:217
+msgid "Button/Link Position relative to Add to Cart Button"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:205
+msgid ""
+"<strong>Tip:</strong> Change position if Compare Button/Link does not show "
+"on Product Cards."
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:211
+#: admin/settings/product-page/global-settings.php:224
+#: admin/settings/widget-style/clear-all-items-settings.php:203
+msgid "Above"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:212
+#: admin/settings/product-page/global-settings.php:225
+#: admin/settings/widget-style/clear-all-items-settings.php:204
+msgid "Below"
+msgstr ""
+
+#: admin/settings/gridview-style/global-settings.php:215
+#: admin/settings/product-page/global-settings.php:228
+msgid "Button Margin"
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:81
+msgid "View Compare Settings successfully saved."
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:82
+msgid "Error: View Compare Settings can not save."
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:83
+msgid "View Compare Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:140
+#: admin/settings/product-page/view-compare-settings.php:140
+msgid "View Compare"
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:184
+#: admin/settings/product-page/view-compare-settings.php:184
+msgid "View Compare Link Feature"
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:188
+msgid "View Compare on Product Cards"
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:206
+#: admin/settings/product-page/view-compare-settings.php:222
+msgid "View Compare Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/gridview-style/view-compare-settings.php:214
+#: admin/settings/product-page/view-compare-settings.php:230
+#: admin/settings/product-page/view-compare-settings.php:255
+msgid "View Compare &rarr;"
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:81
+msgid "Product Page Compare Button Settings successfully saved."
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:82
+msgid "Error: Product Page Compare Button Settings can not save."
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:83
+msgid "Product Page Compare Button Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:137
+msgid "Product Page Compare Button"
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:181
+msgid "Product Page Compare Button / Hyperlink "
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:205
+msgid "Product Page Compare Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:213
+#: admin/settings/product-page/compare-button-settings.php:238
+msgid "Compare This*"
+msgstr ""
+
+#: admin/settings/product-page/compare-button-settings.php:230
+msgid "Product Page Compare Button Styling"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:82
+msgid "Product Page Compare Tab Settings successfully saved."
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:83
+msgid "Error: Product Page Compare Tab Settings can not save."
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:84
+msgid "Product Page Compare Tab Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:139
+#: admin/settings/product-page/compare-tab-settings.php:182
+msgid "Product Page Compare Tab"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:186
+#: admin/settings/product-page/compare-tab-settings.php:203
+msgid "Compare Attributes Tab"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:198
+msgid "Compare Tab Position"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:204
+msgid ""
+"Select the position of the Compare Attributes tab on the default WooCommerce "
+"product page Nav bar. Products Compare feature list shows under the tab."
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:211
+msgid "Before Description tab"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:217
+msgid "Between  Description and Additional tabs"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:223
+msgid "Between  Additional and Reviews tabs"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:229
+msgid "After Reviews tab"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:236
+msgid "Compare Tab Name"
+msgstr ""
+
+#: admin/settings/product-page/compare-tab-settings.php:239
+#: classes/class-wc-compare-filter.php:910
+#: classes/class-wc-compare-filter.php:942
+msgid "Technical Details"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:82
+msgid "Product Page Settings successfully saved."
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:83
+msgid "Error: Product Page Settings can not save."
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:84
+msgid "Product Page Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:153
+msgid "Product Page Settings"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:196
+msgid "Show Compare On Product Pages"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:212
+msgid "Product Page Compare Button/Link Position"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:218
+msgid "Position relative to Add to Cart button location"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:257
+msgid "Manually set Compare button position"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:258
+msgid ""
+"ON to deactivate default button position settings created by the plugin."
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:258
+msgid ""
+"Then use this function to manually postion the Compare button on product "
+"pages"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:269
+msgid "House Keeping :"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:273
+msgid "Clean up on Deletion"
+msgstr ""
+
+#: admin/settings/product-page/global-settings.php:274
+msgid ""
+"On deletion (not deactivate) the plugin will completely remove all tables "
+"and data it created, leaving no trace it was ever here."
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:81
+msgid "Product Page View Compare Settings successfully saved."
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:82
+msgid "Error: Product Page View Compare Settings can not save."
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:83
+msgid "Product Page View Compare Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:188
+msgid "View Compare on Product Page"
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:206
+msgid "Product Page View Compare Button / Hyperlink "
+msgstr ""
+
+#: admin/settings/product-page/view-compare-settings.php:247
+msgid "View Compare Button Styling"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:81
+msgid "Widget Clear All Items Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:82
+msgid "Error: Widget Clear All Items Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:83
+msgid "Widget Clear All Items Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:137
+msgid "Clear All Items"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:181
+msgid "'Clear All' Items Button / Hyperlink"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:196
+msgid "'Clear All' Items Vertical Align"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:197
+msgid "Relative to Compare Widget Button."
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:197
+msgid "Default <code>Below</code>."
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:208
+msgid "'Clear All' Items Horizontal Align"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:222
+msgid "'Clear All' Items Linked Text Styling"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:230
+#: admin/settings/widget-style/clear-all-items-settings.php:255
+msgid "Clear All"
+msgstr ""
+
+#: admin/settings/widget-style/clear-all-items-settings.php:247
+msgid "'Clear All' Items Button Styling"
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:81
+msgid "Widget Compare Button Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:82
+msgid "Error: Widget Compare Button Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:83
+msgid "Widget Compare Button Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:137
+msgid "Compare Button"
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:181
+msgid "Compare Widget Button / Hyperlink "
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:196
+msgid "Compare Widget Button/Hyperlink Position"
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:210
+msgid "Compare Widget Hyperlink Styling"
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:218
+#: admin/settings/widget-style/compare-button-settings.php:243
+#: classes/class-wc-compare-categories.php:168
+#: classes/class-wc-compare-categories.php:171
+msgid "Compare"
+msgstr ""
+
+#: admin/settings/widget-style/compare-button-settings.php:235
+msgid "Compare Widget Button Styling"
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:82
+msgid "Compare Widget General Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:83
+msgid "Error: Compare Widget General Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:84
+msgid "Compare Widget General Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:180
+msgid "Remove Single Item Icon"
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:184
+msgid "Remove from widget Icon"
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:185
+msgid "Upload a 10px x 10px image, support .jpg, .pgn, .jpeg, .gif formats."
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:193
+msgid "Widget \"Nothing to Compare Text\""
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:197
+msgid "Nothing to Compare Text"
+msgstr ""
+
+#: admin/settings/widget-style/compare-widget-settings.php:203
+msgid "Text Font"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:81
+msgid "Widget Product Thumbnails Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:82
+msgid "Error: Widget Product Thumbnails Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:83
+msgid "Widget Product Thumbnails Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:137
+#: admin/settings/widget-style/product-thumbnails-settings.php:185
+msgid "Product Thumbnails"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:181
+msgid "Product Thumbnails in Widget"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:186
+msgid "ON to show Product Thumbnails when items added to the Compare Widget."
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:202
+msgid "Thumbnail Wide"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:203
+#: admin/settings/widget-style/product-thumbnails-settings.php:211
+msgid "Default <code>'[default_value]'</code>px"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:210
+msgid "Thumbnail Padding"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:218
+msgid "Thumbnail Alignment"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:229
+msgid "Thumbnail Background Colour"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:236
+msgid "Thumbnail Border"
+msgstr ""
+
+#: admin/settings/widget-style/product-thumbnails-settings.php:242
+msgid "Thumbnail Shadow"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:81
+msgid "Widget Title Settings successfully saved."
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:82
+msgid "Error: Widget Title Settings can not save."
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:83
+msgid "Widget Title Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:137
+msgid "Widget Title"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:181
+msgid "Widget Title Setup "
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:182
+msgid ""
+"Custom settings below apply style to the 'Title' you add on the Woo Compare "
+"Widget."
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:186
+msgid "Widget Title Style"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:194
+msgid "Use Default Theme Style for Widget Title"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:194
+msgid "default"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:200
+#: admin/settings/widget-style/widget-title-settings.php:208
+msgid "Customized Style for Widget Title"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:213
+msgid "Widget Title Text Font"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:219
+msgid "Widget Title Container Align"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:220
+msgid "Default <code>Left</code>."
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:232
+msgid "Widget Title Container Wide"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:239
+msgid "Auto"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:240
+msgid "Full"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:243
+msgid "Widget Title Container Padding"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:261
+msgid "Widget Title Container Margin"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:279
+msgid "Widget Title Container Background Colour"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:286
+msgid "Widget Title Container Border"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:293
+msgid "Comparable Products Counter (0)"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:297
+msgid "To show before number"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:304
+msgid "To show after number"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:312
+msgid "Compare Count Number Styling"
+msgstr ""
+
+#: admin/settings/widget-style/widget-title-settings.php:316
+msgid "Count Number Font"
+msgstr ""
+
+#: admin/tabs/comparison-page-tab.php:78
+msgid "Comparison Page"
+msgstr ""
+
+#: admin/tabs/gridview-style-tab.php:78
+msgid "Product Cards"
+msgstr ""
+
+#: admin/tabs/product-page-tab.php:78
+msgid "Product Page"
+msgstr ""
+
+#: admin/tabs/widget-style-tab.php:78
+msgid "Compare Widget"
+msgstr ""
+
+#: classes/class-wc-compare-categories.php:101
+#: classes/class-wc-compare-categories.php:122
+msgid "Comparison Category"
+msgstr ""
+
+#: classes/class-wc-compare-categories.php:104
+#: classes/class-wc-compare-categories.php:128
+msgid "ON to activate as a Compare Category"
+msgstr ""
+
+#: classes/class-wc-compare-categories.php:193
+msgid "View"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:176
+#: classes/class-wc-compare-features.php:240
+msgid "Attribute Comparison Data"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:179
+#: classes/class-wc-compare-features.php:247
+msgid "Select Categories"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:180
+#: classes/class-wc-compare-features.php:246
+msgid ""
+"Attribute can be assigned to any Product Category that is activated for "
+"Product Comparisons. Attributes show on the comparison table as the "
+"Comparable Product Attributes."
+msgstr ""
+
+#: classes/class-wc-compare-features.php:185
+#: classes/class-wc-compare-features.php:253
+msgid "Select Compare Categories"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:198
+#: classes/class-wc-compare-features.php:269
+msgid "Attribute and Terms Compare data Input type"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:199
+#: classes/class-wc-compare-features.php:268
+msgid ""
+"Use these fields to determine how this Attribute with display its compare "
+"data. Text input fields are for adding custom compare data and ignore the "
+"Attribute Terms or set to show the Attributes Terms as single or multi "
+"select Compare data options that are quick and easy to set for each product."
+msgstr ""
+
+#: classes/class-wc-compare-features.php:210
+#: classes/class-wc-compare-features.php:286
+msgid "Attribute Unit of Measurement"
+msgstr ""
+
+#: classes/class-wc-compare-features.php:211
+#: classes/class-wc-compare-features.php:285
+msgid ""
+"e.g kgs, mm, lbs, cm, inches - the unit of measurement shows after the "
+"Attribute name in (brackets). If you leave this blank you will just see the "
+"Attribute name."
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:45
+msgid "Compare Category & Attribute"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:45
+msgid "Category & Attribute"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:47
+msgid "Compare Products Manager"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:47
+msgid "Product Manager"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:672
+msgid "Product_Comparison"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:1034
+msgid "Documentation"
+msgstr ""
+
+#: classes/class-wc-compare-filter.php:1035
+msgid "Support"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:560
+msgid "Buy product"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:779
+#: classes/class-wc-compare-functions.php:782
+msgid "Back"
+msgstr ""
+
+#: classes/class-wc-compare-functions.php:796
+#: classes/class-wc-compare-functions.php:799
+msgid "Next"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:25
+msgid "Compare Attribute Fields"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:131
+#: classes/class-wc-compare-metabox.php:266
+msgid "Input Video URL - Supported formats Youtube, Vimeo, WordPressTV"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:136
+#: classes/class-wc-compare-metabox.php:271
+msgid "Input Audio URL - Supported formats .mp3, .m4a, .ogg, .wav file"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:163
+#: classes/class-wc-compare-metabox.php:298
+msgid "Select value"
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:199
+#: classes/class-wc-compare-metabox.php:334
+msgid "There are no Attributes created for this category, please add some."
+msgstr ""
+
+#: classes/class-wc-compare-metabox.php:199
+#: classes/class-wc-compare-metabox.php:334
+msgid "This page"
+msgstr ""
+
+#: templates/product-compare-old.php:74 templates/product-compare-old.php:76
+#: templates/product-compare.php:76 templates/product-compare.php:78
+#: widgets/compare_widget.php:43
+msgid "Compare Products"
+msgstr ""
+
+#: upgrade/plugin_upgrade.php:27
+msgid "or"
+msgstr ""
+
+#: upgrade/plugin_upgrade.php:27
+msgid "Purchase one now"
+msgstr ""
+
+#: widgets/compare_widget.php:23
+msgid "WOO Compare Products"
+msgstr ""
+
+#: widgets/compare_widget.php:65
+msgid "Title"
+msgstr ""

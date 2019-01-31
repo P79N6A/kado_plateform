@@ -1,0 +1,14 @@
+i.spt-icon {
+    background-image: url('../img/admin/tinymce_icon.png');
+    background-size: 16px;
+    background-repeat: no-repeat;
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+    i.spt-icon {
+	    background-image: url('../img/admin/tinymce_icon@2x.png');
+	    background-size: 16px;
+	}
+}

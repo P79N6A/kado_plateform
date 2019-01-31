@@ -1,0 +1,612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Barcodes and QR Codes\n"
+"POT-Creation-Date: 2018-10-26 13:26+0100\n"
+"PO-Revision-Date: 2018-10-26 13:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../functions.php:39
+msgid ""
+"YITH WooCommerce Barcodes is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Barcodes is ingeschakeld maar werkt niet. Het heeft "
+"WooCommerce nodig om te werken."
+
+#: ../includes/class-yith-woocommerce-barcodes.php:340
+msgid "No barcode is available for this element."
+msgstr "Er is geen barcode beschikbaar voor dit element."
+
+#: ../includes/class-yith-ywbc-backend.php:293
+msgid "Generate barcode"
+msgstr "Genereer barcode"
+
+#: ../includes/class-yith-ywbc-backend.php:309
+msgid "Barcode applied successfully"
+msgstr "Barcode succesvol toegepast"
+
+#: ../includes/class-yith-ywbc-backend.php:310
+msgid "It is not possible to complete the task"
+msgstr "Het is niet mogelijk om de taak te voltooien"
+
+#: ../includes/class-yith-ywbc-backend.php:600
+#: ../includes/class-yith-ywbc-backend.php:609
+msgid "YITH Barcodes"
+msgstr "YITH Barcodes"
+
+#: ../includes/class-yith-ywbc-backend.php:651
+#: ../templates/shortcode/ywbc-complete-orders.php:7
+msgid "Code"
+msgstr "Code"
+
+#: ../includes/class-yith-ywbc-backend.php:654
+msgid "Enter the code or leave empty for automatic code"
+msgstr "Vul de code in of laat het veld leeg voor automatische code"
+
+#: ../includes/class-yith-ywbc-backend.php:657
+msgid "Generate"
+msgstr "Genereren"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:220
+#: ../includes/class-yith-ywbc-shortcodes.php:280
+msgid "The selected action could not be performed"
+msgstr "De geselecteerde actie kon niet worden uitgevoerd"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:254
+msgid "Matching results"
+msgstr "Corresponderende resultaten"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:346
+msgctxt "title for product barcode form"
+msgid "Order barcode"
+msgstr "Barcode bestelling"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:381
+msgctxt "title for product barcode form"
+msgid "Product barcode"
+msgstr "Barcode product"
+
+#: ../includes/class-yith-ywbc-shortcodes.php:414
+#, php-format
+msgid "Order status set by %s through YITH WooCommerce Barcodes."
+msgstr "Bestelstatus ingesteld op %s door YITH WooCommerce Barcodes."
+
+#: ../includes/class-yith-ywbc-shortcodes.php:416
+msgid "Order status set through YITH WooCommerce Barcodes."
+msgstr "Bestelstatus ingesteld door YITH WooCommerce Barcodes."
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:141
+msgid "General"
+msgstr "Algemeen"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:142
+msgid "Tools"
+msgstr "Instrumenten"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:190
+msgid ""
+"YITH WooCommerce Barcodes is available in an outstanding PREMIUM version "
+"with many new options, discover it now."
+msgstr ""
+"YITH WooCommerce Barcodes is beschikbaar in een uitstekende PREMIUM versie "
+"met vele nieuwe opies, ontdek het nu."
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:191
+msgid "Premium version"
+msgstr "Premium versie"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:198
+msgid "YITH WooCommerce Barcodes"
+msgstr "YITH WooCommerce Barcodes"
+
+#: ../includes/class-ywbc-plugin-fw-loader.php:199
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Barcodes options.<br> From "
+"this menu you can access all settings of YITH plugins activated."
+msgstr ""
+"In de YITH Plugins tab kunt u de YITH WooCommerce Barcodes opties vinden."
+"<br> Vanuit dit menu kunt u alle instellingen van active YITH plugins aan."
+
+#: ../plugin-options/general-options.php:21
+msgid "Product settings"
+msgstr "Productinstellingen"
+
+#: ../plugin-options/general-options.php:25
+msgid "Enable on products"
+msgstr "Inschakelen op producten"
+
+#: ../plugin-options/general-options.php:27
+msgid "Enable barcode generation on products"
+msgstr "Barcode vorming inschakelen op producten"
+
+#: ../plugin-options/general-options.php:32
+msgid "New products"
+msgstr "Nieuwe producten"
+
+#: ../plugin-options/general-options.php:34
+msgid "Create barcode automatically for new products"
+msgstr "Creëer barcode automatisch voor nieuwe producten"
+
+#: ../plugin-options/general-options.php:39
+msgid "Product barcode protocol"
+msgstr "Product barcode protocol"
+
+#: ../plugin-options/general-options.php:41
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"products"
+msgstr ""
+"Kies het barcode protocol dat u wenst te gebruiken om nieuwe barcodes te "
+"genereren op producten"
+
+#: ../plugin-options/general-options.php:47
+msgid "Enable manual barcode"
+msgstr "Handmatige barcode inschakelen"
+
+#: ../plugin-options/general-options.php:49
+msgid ""
+"Enable this option, if you want to show a form in product page where a "
+"barcode value can be entered"
+msgstr ""
+"Schakel deze optie in, als u een formulier wilt weergeven in de "
+"productpagina, waar een barcodewaarde kan worden ingevuld"
+
+#: ../plugin-options/general-options.php:54
+msgid "Show in product page"
+msgstr "Weergeven in productpagina"
+
+#: ../plugin-options/general-options.php:56
+msgid ""
+"Choose whether you want to show the barcode image on product page or not"
+msgstr ""
+"Kies of u de barcode afbeelding wilt weergeven op de productpagina of niet"
+
+#: ../plugin-options/general-options.php:64
+msgid "Order settings"
+msgstr "Bestelling instellingen"
+
+#: ../plugin-options/general-options.php:68
+msgid "Enable on orders"
+msgstr "Inschakelen op bestellingen"
+
+#: ../plugin-options/general-options.php:70
+msgid "Enable barcode generation on orders"
+msgstr "Barcode vorming inschakelen op bestellingen"
+
+#: ../plugin-options/general-options.php:75
+msgid "New orders"
+msgstr "Nieuwe bestellingen"
+
+#: ../plugin-options/general-options.php:77
+msgid "Generate barcode automatically for new orders"
+msgstr "Genereer barcode automatisch voor nieuwe bestellingen"
+
+#: ../plugin-options/general-options.php:82
+msgid "Barcode protocol on orders"
+msgstr "Barcode protocol op orders"
+
+#: ../plugin-options/general-options.php:84
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"orders"
+msgstr ""
+"Kies het barcode protocol dat u wenst te gebruiken om nieuwe barcodes op "
+"bestellingen te genereren"
+
+#: ../plugin-options/general-options.php:90
+msgid "Show in order page"
+msgstr "Weergeven in bestelpagina"
+
+#: ../plugin-options/general-options.php:92
+msgid "Set whether the barcode should be shown in order page or not"
+msgstr "Kies of u de barcode wilt weergeven op de bestelpagina of niet"
+
+#: ../plugin-options/general-options.php:97
+msgid "Order barcode in emails"
+msgstr "Bestelling barcode in e-mails"
+
+#: ../plugin-options/general-options.php:101
+msgid "Never show order barcode in emails"
+msgstr "Bestelling barcode nooit weergeven in e-mails"
+
+#: ../plugin-options/general-options.php:102
+msgid ""
+"Show order barcode only in emails sent after the order is set to 'completed'"
+msgstr ""
+"Bestelling barcode uitsluitend weergeven in e-mails die verzonden zijn nadat "
+"de bestelling is 'voltooid'"
+
+#: ../plugin-options/general-options.php:103
+msgid "Show order barcode on every email"
+msgstr "Bestelling barcode weergeven in alle e-mails"
+
+#: ../plugin-options/general-options.php:108
+msgid "Product barcode in emails"
+msgstr "Product barcode in e-mails"
+
+#: ../plugin-options/tool-options.php:11
+msgid "Generate Barcode"
+msgstr "Genereer Barcode"
+
+#: ../plugin-options/tool-options.php:16
+msgid "Apply Barcodes to products"
+msgstr "Barcodes toepassen op producten"
+
+#: ../plugin-options/tool-options.php:18
+msgid "Apply automatically barcode to all products"
+msgstr "Barcodes automasch toepassen op alle producten"
+
+#: ../templates/shortcode/ywbc-barcode-actions.php:18
+msgctxt "placeholder for barcode text field"
+msgid "Type or scan the barcode value here..."
+msgstr "Type of scan de barcode waarde hier..."
+
+#: ../templates/shortcode/ywbc-barcode-actions.php:25
+msgid "Enter the barcode here"
+msgstr "Vul hier de barcode in"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:3
+#: ../templates/shortcode/ywbc-search-orders.php:13
+msgid "Order"
+msgstr "Bestelling"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:4
+msgid "Date"
+msgstr "Datum"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:5
+#: ../templates/shortcode/ywbc-search-orders.php:17
+msgid "Status"
+msgstr "Status"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:6
+msgid "Total"
+msgstr "Totaal"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:15
+msgid "Order list"
+msgstr "Bestellijst"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:16
+msgid "The following orders have been set to completed"
+msgstr "De volgende bestellingen staan klaar voor voltooing"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:42
+msgctxt "hash tag before order number"
+msgid "#"
+msgstr "#"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:53
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s voor %s product"
+msgstr[1] "%s voor %s producten"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:60
+msgid "View"
+msgstr "Toon"
+
+#: ../templates/shortcode/ywbc-complete-orders.php:71
+#: ../templates/shortcode/ywbc-search-orders.php:46
+msgid "No order matches the selected criteria"
+msgstr "Geen corresponderende bestellingen in de geselecteerde criteria"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:20
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:24
+msgid "Guest"
+msgstr "Gast"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:29
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s bij %2$s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:43
+#, php-format
+msgctxt "Order status label"
+msgid "Status: %1$s"
+msgstr "Status: %1$s"
+
+#: ../templates/shortcode/ywbc-search-orders-row.php:45
+#, php-format
+msgctxt "Order amount"
+msgid "Total: %s for %s item"
+msgid_plural "Total:%s for %s items"
+msgstr[0] "Totaal: %s voor %s product"
+msgstr[1] "Totaal:%s voor %s producten"
+
+#: ../templates/shortcode/ywbc-search-orders.php:21
+#: ../templates/shortcode/ywbc-search-products.php:19
+msgid "Barcode"
+msgstr "Barcode"
+
+#: ../templates/shortcode/ywbc-search-products-row.php:30
+#, php-format
+msgid "Stock units: %s"
+msgstr "Voorraad units: %s"
+
+#: ../templates/shortcode/ywbc-search-products-row.php:32
+msgid "Manage stock not enabled"
+msgstr "Voorraadbeheer niet ingeschakeld"
+
+#: ../templates/shortcode/ywbc-search-products.php:12
+msgid "Product image"
+msgstr "Productafbeelding"
+
+#: ../templates/shortcode/ywbc-search-products.php:15
+msgid "Product"
+msgstr "Product"
+
+#: ../templates/shortcode/ywbc-search-products.php:23
+msgid "Stock status"
+msgstr "Voorraad status"
+
+#: ../templates/shortcode/ywbc-search-products.php:48
+msgid "No product matches the selected criteria"
+msgstr "Geen corresponderende producten in de geselecteerde criteria"
+
+#~ msgid "Settings"
+#~ msgstr "Instellingen"
+
+#~ msgid "Premium Version"
+#~ msgstr "Premium versie"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Plugin Documentatie"
+
+#~ msgid "This review is closed for replies"
+#~ msgstr "Deze review is gesloten voor reacties"
+
+#~ msgid "This review is closed for comments"
+#~ msgstr "Deze review is gesloten voor opmerkingen"
+
+#~ msgid "Product id is in invalid format"
+#~ msgstr "Product id heeft een ongeldige opmaak"
+
+#~ msgid "Voting/Reviews settings"
+#~ msgstr "Stemmen/reviews instellingen"
+
+#~ msgid ""
+#~ "In the YIT Plugins tab you can find the YITH WooCommerce Advanced Reviews "
+#~ "options. With this menu, you can access to all the settings of our "
+#~ "plugins that you have activated."
+#~ msgstr ""
+#~ "In de YITH Plugins tab kunt u de YITH WooCommerce Advanced Reviews opties "
+#~ "vinden. Vanuit dit menu heeft u toegang tot de instellingen van alle "
+#~ "geactiveerde plugins."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of YITH WooCommerce Advanced "
+#~ "Reviews under YIT Plugin -> Advanced Reviews instead of WooCommerce -> "
+#~ "Settings -> Advanced Reviews, as in the previous version. When one of our "
+#~ "plugins updates, a new voice will be added to this menu."
+#~ msgstr ""
+#~ "Vanaf nu, kunt u alle opties van YITH WooCommerce Advanced Reviews vinden "
+#~ "onder YITH Plugin -> Advanced Reviews in plaats van WooCommerce -> "
+#~ "Instellingen -> Advanced Reviews, zoals in de vorige versie. Wanneer een "
+#~ "van onze plugins een update heeft, zal er een nieuwe stem worden "
+#~ "toegevoegd aan dit menu."
+
+#~ msgid "The layout for this "
+#~ msgstr "De lay-out hiervoor "
+
+#~ msgid ""
+#~ "The word used for the URL of each project (the slug of post if empty)"
+#~ msgstr ""
+#~ "Het woord dat gebruikt wordt voor de URL van ieder project (de slug van "
+#~ "de post indien leeg)"
+
+#~ msgid "Label Singular"
+#~ msgstr "Label enkel"
+
+#~ msgid ""
+#~ "Set the label in singular to use for each label (the title of portfolio "
+#~ "if empty)"
+#~ msgstr ""
+#~ "Stel het label in op enkel om het te gebruiken voor elk label (de titel "
+#~ "van portfolio indien leeg)"
+
+#~ msgid "Label Plural"
+#~ msgstr "Label meervoud"
+
+#~ msgid ""
+#~ "Set the label in plural to use for each label (the title of portfolio if "
+#~ "empty)"
+#~ msgstr ""
+#~ "Stel het label in op meervoud om het te gebruiken voor elk label (de "
+#~ "titel van portfolio indien leeg)"
+
+#~ msgid ""
+#~ "If you want to use a category section for the portfolio, set the name of "
+#~ "taxonomy. Name should be in slug form (must not contain capital letters "
+#~ "or spaces) and not more than 32 characters long (database structure "
+#~ "restriction)."
+#~ msgstr ""
+#~ "Indien u gebruik wenst te maken van een categorie-sectie voor het "
+#~ "portfolio, stel de naam in van de taxonomy. De naam moet staan in het "
+#~ "slug formulier (mag geen hoofdletters of spaties bevatten) en mag niet "
+#~ "meer dan 32 karakters lang zijn (database structuur restrictie)."
+
+#~ msgid "Set the word to use in the URL for each category page."
+#~ msgstr ""
+#~ "Stel het woord in dat gebruikt wordt in de URL van iedere categorie "
+#~ "pagina."
+
+#~ msgid "The layout for single page of this portfolio"
+#~ msgstr "De lay-out voor de single-pagina van dit portfolio"
+
+#~ msgid "Show the frontend of the %s"
+#~ msgstr "Frontent van de %s weergeven"
+
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr ""
+#~ "De veranderingen die u heeft gemaakt zullen verdwijnen zodra u de pagina "
+#~ "verlaat."
+
+#~ msgid ""
+#~ "If you continue with this action, you will reset all options are in this "
+#~ "page."
+#~ msgstr ""
+#~ "Indien u deze actie voortzet, zult u alle opties in deze pagina resetten."
+
+#~ msgid ""
+#~ "The element you have written is already exists. Please, add another name."
+#~ msgstr "Deze naam bestaat al. Voegt u alstublieft een andere naam toe."
+
+#~ msgid "An error encoured during during import. Please try again."
+#~ msgstr ""
+#~ "Er is iets mis gegaan tijdens het importeren. Probeert u het alstublieft "
+#~ "nogmaals."
+
+#~ msgid "The file you have insert doesn't valid."
+#~ msgstr "Het bestand dat u heeft toegevoegd is niet geldig."
+
+#~ msgid "I'm sorry, the import featured is disabled."
+#~ msgstr "Sorry, de import-functie is uitgeschakeld."
+
+#~ msgid "Sorting done correctly."
+#~ msgstr "Sortering goed afgehandeld."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                     For every installation of our new "
+#~ "plugins, a new voice will be added to access to the customization "
+#~ "settings."
+#~ msgstr ""
+#~ "Vanaf nu kunt u alle opties van uw plugins vinden onder YITH Plugins menu "
+#~ "voice.\n"
+#~ "                                     Voor elke installatie van onze "
+#~ "nieuwe plugins, zal een nieuwe stem worden toegevoegd om toegang te geven "
+#~ "tot de aanpassingsinstellingen."
+
+#~ msgid ""
+#~ "From now on, you can find all the options of your plugins under the YIT "
+#~ "Plugin menu voice.\n"
+#~ "                                    When one of our plugins updates, a "
+#~ "new voice will be added to this menu.\n"
+#~ "                                    For example, after the update, the "
+#~ "options from the plugins (YITH WooCommerce Wishlist, YITH WooCommerce "
+#~ "Ajax Search, etc.)\n"
+#~ "                                    will be removed from the previous "
+#~ "location and moved under the YIT Plugin tab."
+#~ msgstr ""
+#~ "Vanaf nu kunt u alle opties van uw plugins vinden onder YITH Plugins menu "
+#~ "voice.\n"
+#~ "                                    Wanneer een van onze plugins een "
+#~ "update heeft, zal er een nieuwe stem worden toegevoegd aan dit menu.\n"
+#~ "                                    Voorbeeld, na de update, zullen de "
+#~ "opties van de plugins (YITH WooCommerce Wishlist, YITH WooCommerce Ajax "
+#~ "Search, etc.)\n"
+#~ "                                    worden verwijderd van de vorige "
+#~ "locaties, en worden geplaatst onder de YIT Plugin tab."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">View version %4$s "
+#~ "details</a>. <em>You have to activate the plugin on a single site of the "
+#~ "network to benefit from the automatic updates.</em>"
+#~ msgstr ""
+#~ "Er is een nieuwe versie van %1$s beschikbaar. <a href=\"%2$s\" class="
+#~ "\"thickbox yit-changelog-button\" title=\"%3$s\">Toon versie %4$s "
+#~ "details</a>. <em> U moet de plugin op de single site van het netwerk "
+#~ "activeren, om te profiteren van automatische updates.</em>"
+
+#~ msgid "%field% field can not be empty"
+#~ msgstr "%veld% veld mag niet leeg zijn"
+
+#~ msgid "%field_1% and %field_2% fields can not be empty"
+#~ msgstr "%veld_1% en %veld_2% velden mogen niet leeg zijn"
+
+#~ msgid "Software has been deactive"
+#~ msgstr "Software was niet geactiveerd"
+
+#~ msgid "Licence key has be banned"
+#~ msgstr "De licence key is verbannen"
+
+#~ msgid "To Active"
+#~ msgstr "Activeren"
+
+#~ msgid "Insert the title of field."
+#~ msgstr "Voeg veldtitel toe."
+
+#~ msgid ""
+#~ "REQUIRED: The identification name of this field, that you can insert into "
+#~ "body email configuration. <strong>Note:</strong>Use only lowercase "
+#~ "characters and underscores."
+#~ msgstr ""
+#~ "VEREIST: De identificatienaam van dit veld, welke u kunt invoegen in de e-"
+#~ "mail body configuratie. <strong>Notitie:</strong>Gebruik uitsluitend "
+#~ "kleine letters en underscores."
+
+#~ msgid "Select the type of this field."
+#~ msgstr "Selecteer veldtype."
+
+#~ msgid "Select this if it's the email where you can reply."
+#~ msgstr "Selecteer indien dit de e-mail is waarop u kunt reageren."
+
+#~ msgid ""
+#~ "Insert an additional class(es) (separateb by comma) for more "
+#~ "personalization."
+#~ msgstr ""
+#~ "Voeg aanvullende klasse(n) toe (gescheiden door komma) voor een "
+#~ "persoonlijke aanpassing."
+
+#~ msgid "Choose how much long will be the field."
+#~ msgstr "Kies hoelang het veld moet zijn."
+
+#~ msgid "The content of the tab. (HTML is supported)"
+#~ msgstr "De inhoud van de tab. (HTML wordt ondersteund)"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "Sidebar Links"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "Sidebar Rechts"
+
+#~ msgid "Add a title field on reviews."
+#~ msgstr "Voeg een titelveld toe aan reviews."
+
+#~ msgid "Set maximum number of attachments selectable (0 = no limit)."
+#~ msgstr "Stel maximaal aantal te selecteren bijlagen in (0 = geen limiet)."
+
+#~ msgid "Reviews summary options"
+#~ msgstr "Reviews samenvatting opties"
+
+#~ msgid "Fixed bars color"
+#~ msgstr "Aangepaste balkkleur"
+
+#~ msgid "Percentage bars color"
+#~ msgstr "Percentage balkkleur"
+
+#~ msgid "Show people's votes"
+#~ msgstr "Stemmen weergeven van mensen"
+
+#~ msgid "Add a string stating how many people's found the review useful."
+#~ msgstr ""
+#~ "Voeg een reeks toe die weergeeft hoeveel mensen deze review bruikbaar "
+#~ "vonden."
+
+#~ msgid "Customers reviews"
+#~ msgstr "Klant reviews"

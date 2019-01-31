@@ -1,0 +1,563 @@
+# Copyright (C) 2018 YITH WooCommerce Barcodes Premium
+# This file is distributed under the same license as the YITH WooCommerce Barcodes Premium package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Barcodes Premium 1.2.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2018-12-10 14:58:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:39
+msgid ""
+"YITH WooCommerce Barcodes is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: includes/class-yith-woocommerce-barcodes.php:340
+msgid "No barcode is available for this element."
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:297
+msgid "Generate barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:313
+msgid "Barcode applied successfully"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:314
+msgid "It is not possible to complete the task"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:604
+#: includes/class-yith-ywbc-backend.php:613
+msgid "YITH Barcodes"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:655
+#: templates/shortcode/ywbc-complete-orders.php:7
+msgid "Code"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:658
+msgid "Enter the code or leave empty for automatic code"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:661
+msgid "Generate"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:697
+msgctxt "[gutenberg]: block name"
+msgid "Product Barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:698
+msgctxt "[gutenberg]: block description"
+msgid ""
+"With this block you can search a product by barcode and manage the stock"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:703
+msgctxt "[gutenberg]: keywords"
+msgid "Product"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:704
+#: includes/class-yith-ywbc-backend.php:736
+#: includes/class-yith-ywbc-backend.php:777
+msgctxt "[gutenberg]: keywords"
+msgid "Barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:705
+msgctxt "[gutenberg]: keywords"
+msgid "Stock"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:706
+#: includes/class-yith-ywbc-backend.php:738
+msgctxt "[gutenberg]: keywords"
+msgid "Search"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:711
+#: includes/class-yith-ywbc-backend.php:753
+msgctxt "[gutenberg]: Option title"
+msgid "Capability"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:716
+#: includes/class-yith-ywbc-backend.php:758
+msgctxt "[gutenberg]: attribute description"
+msgid "Actions"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:720
+msgctxt "[gutenberg]: Help text"
+msgid "Search"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:721
+msgctxt "[gutenberg]: Help text"
+msgid "Increase stock"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:722
+msgctxt "[gutenberg]: Help text"
+msgid "Decrease stock"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:729
+msgctxt "[gutenberg]: block name"
+msgid "Order Barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:730
+msgctxt "[gutenberg]: block description"
+msgid ""
+"With this block you can search an order by barcode and manage its status"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:735
+#: includes/class-yith-ywbc-backend.php:776
+msgctxt "[gutenberg]: keywords"
+msgid "Order"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:737
+#: includes/class-yith-ywbc-backend.php:778
+msgctxt "[gutenberg]: keywords"
+msgid "Status"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:743
+msgctxt "[gutenberg]: Option title"
+msgid "Search type"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:748
+msgctxt "[gutenberg]: Option title"
+msgid "Style"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:762
+msgctxt "[gutenberg]: Help text"
+msgid "Set status as \"Complete\""
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:763
+msgctxt "[gutenberg]: Help text"
+msgid "Set status as \"Processing\""
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:770
+msgctxt "[gutenberg]: block name"
+msgid "Render Barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:771
+msgctxt "[gutenberg]: block description"
+msgid "With this block you can show a barcode by product or order ID"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:779
+msgctxt "[gutenberg]: keywords"
+msgid "Render"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:784
+msgctxt "[gutenberg]: Option title"
+msgid "ID"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:789
+msgctxt "[gutenberg]: Option title"
+msgid "Hide if empty"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:792
+msgctxt "[gutenberg]: Help text"
+msgid "Hide if empty"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:793
+msgctxt "[gutenberg]: Help text"
+msgid "Show if empty"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:798
+msgctxt "[gutenberg]: Option title"
+msgid "Value"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:803
+msgctxt "[gutenberg]: block description"
+msgid "Select protocol to use"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:805
+msgctxt "[gutenberg]: inspector description"
+msgid "EAN-13"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:806
+msgctxt "[gutenberg]: inspector description"
+msgid "EAN-8"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:807
+msgctxt "[gutenberg]: inspector description"
+msgid "STD 25"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:808
+msgctxt "[gutenberg]: inspector description"
+msgid "INT 25"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:809
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 39"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:810
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 93"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:811
+msgctxt "[gutenberg]: inspector description"
+msgid "CODE 128"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:812
+msgctxt "[gutenberg]: inspector description"
+msgid "Codabar"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:813
+msgctxt "[gutenberg]: inspector description"
+msgid "QR code"
+msgstr ""
+
+#: includes/class-yith-ywbc-backend.php:819
+msgctxt "[gutenberg]: Option title"
+msgid "Inline CSS"
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:220
+#: includes/class-yith-ywbc-shortcodes.php:280
+msgid "The selected action could not be performed"
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:254
+msgid "Matching results"
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:346
+msgctxt "title for product barcode form"
+msgid "Order barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:381
+msgctxt "title for product barcode form"
+msgid "Product barcode"
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:414
+msgid "Order status set by %s through YITH WooCommerce Barcodes."
+msgstr ""
+
+#: includes/class-yith-ywbc-shortcodes.php:416
+msgid "Order status set through YITH WooCommerce Barcodes."
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:141
+msgid "General"
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:142
+msgid "Tools"
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:190
+msgid ""
+"YITH WooCommerce Barcodes is available in an outstanding PREMIUM version "
+"with many new options, discover it now."
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:191
+msgid "Premium version"
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:198
+msgid "YITH WooCommerce Barcodes"
+msgstr ""
+
+#: includes/class-ywbc-plugin-fw-loader.php:199
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Barcodes options.<br> From "
+"this menu you can access all settings of YITH plugins activated."
+msgstr ""
+
+#: plugin-options/general-options.php:21
+msgid "Product settings"
+msgstr ""
+
+#: plugin-options/general-options.php:25
+msgid "Enable on products"
+msgstr ""
+
+#: plugin-options/general-options.php:27
+msgid "Enable barcode generation on products"
+msgstr ""
+
+#: plugin-options/general-options.php:32
+msgid "New products"
+msgstr ""
+
+#: plugin-options/general-options.php:34
+msgid "Create barcode automatically for new products"
+msgstr ""
+
+#: plugin-options/general-options.php:39
+msgid "Product barcode protocol"
+msgstr ""
+
+#: plugin-options/general-options.php:41
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"products"
+msgstr ""
+
+#: plugin-options/general-options.php:47
+msgid "Enable manual barcode"
+msgstr ""
+
+#: plugin-options/general-options.php:49
+msgid ""
+"Enable this option, if you want to show a form in product page where a "
+"barcode value can be entered"
+msgstr ""
+
+#: plugin-options/general-options.php:54
+msgid "Show in product page"
+msgstr ""
+
+#: plugin-options/general-options.php:56
+msgid ""
+"Choose whether you want to show the barcode image on product page or not"
+msgstr ""
+
+#: plugin-options/general-options.php:64
+msgid "Order settings"
+msgstr ""
+
+#: plugin-options/general-options.php:68
+msgid "Enable on orders"
+msgstr ""
+
+#: plugin-options/general-options.php:70
+msgid "Enable barcode generation on orders"
+msgstr ""
+
+#: plugin-options/general-options.php:75
+msgid "New orders"
+msgstr ""
+
+#: plugin-options/general-options.php:77
+msgid "Generate barcode automatically for new orders"
+msgstr ""
+
+#: plugin-options/general-options.php:82
+msgid "Barcode protocol on orders"
+msgstr ""
+
+#: plugin-options/general-options.php:84
+msgid ""
+"Choose the barcode protocol you want to use to generate a new barcode on "
+"orders"
+msgstr ""
+
+#: plugin-options/general-options.php:90
+msgid "Show in order page"
+msgstr ""
+
+#: plugin-options/general-options.php:92
+msgid "Set whether the barcode should be shown in order page or not"
+msgstr ""
+
+#: plugin-options/general-options.php:97
+msgid "Order barcode in emails"
+msgstr ""
+
+#: plugin-options/general-options.php:101
+msgid "Never show order barcode in emails"
+msgstr ""
+
+#: plugin-options/general-options.php:102
+msgid ""
+"Show order barcode only in emails sent after the order is set to 'completed'"
+msgstr ""
+
+#: plugin-options/general-options.php:103
+msgid "Show order barcode on every email"
+msgstr ""
+
+#: plugin-options/general-options.php:108
+msgid "Product barcode in emails"
+msgstr ""
+
+#: plugin-options/tool-options.php:11
+msgid "Generate Barcode"
+msgstr ""
+
+#: plugin-options/tool-options.php:16
+msgid "Apply Barcodes to products"
+msgstr ""
+
+#: plugin-options/tool-options.php:18
+msgid "Apply automatically barcode to all products"
+msgstr ""
+
+#: templates/shortcode/ywbc-barcode-actions.php:18
+msgctxt "placeholder for barcode text field"
+msgid "Type or scan the barcode value here..."
+msgstr ""
+
+#: templates/shortcode/ywbc-barcode-actions.php:25
+msgid "Enter the barcode here"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:3
+#: templates/shortcode/ywbc-search-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:4
+msgid "Date"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:5
+#: templates/shortcode/ywbc-search-orders.php:17
+msgid "Status"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:6
+msgid "Total"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:15
+msgid "Order list"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:16
+msgid "The following orders have been set to completed"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:42
+msgctxt "hash tag before order number"
+msgid "#"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:53
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shortcode/ywbc-complete-orders.php:60
+msgid "View"
+msgstr ""
+
+#: templates/shortcode/ywbc-complete-orders.php:71
+#: templates/shortcode/ywbc-search-orders.php:46
+msgid "No order matches the selected criteria"
+msgstr ""
+
+#. translators: 1: first name 2: last name
+#: templates/shortcode/ywbc-search-orders-row.php:20
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-orders-row.php:24
+msgid "Guest"
+msgstr ""
+
+#. translators: 1: order and number (i.e. Order #13) 2: user name
+#: templates/shortcode/ywbc-search-orders-row.php:29
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-orders-row.php:43
+msgctxt "Order status label"
+msgid "Status: %1$s"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-orders-row.php:45
+msgctxt "Order amount"
+msgid "Total: %s for %s item"
+msgid_plural "Total:%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shortcode/ywbc-search-orders.php:21
+#: templates/shortcode/ywbc-search-products.php:19
+msgid "Barcode"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products-row.php:30
+msgid "Stock units: %s"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products-row.php:32
+msgid "Manage stock not enabled"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products.php:12
+msgid "Product image"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products.php:15
+msgid "Product"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products.php:23
+msgid "Stock status"
+msgstr ""
+
+#: templates/shortcode/ywbc-search-products.php:48
+msgid "No product matches the selected criteria"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Barcodes Premium"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-barcodes-and-qr-codes/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Barcodes</strong></code> allows you to "
+"generate and display barcode and QR code for your orders and products. <a "
+"href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-"
+"commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""

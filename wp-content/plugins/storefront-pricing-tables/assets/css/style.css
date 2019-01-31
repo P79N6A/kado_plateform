@@ -1,0 +1,85 @@
+.storefront-pricing-table {
+  margin-bottom: 2.618em; }
+  .storefront-pricing-table::after {
+    clear: both;
+    content: "";
+    display: block; }
+  .storefront-pricing-table.align-left .storefront-pricing-column {
+    text-align: left; }
+  .storefront-pricing-table.align-right .storefront-pricing-column {
+    text-align: right; }
+  .storefront-pricing-table.align-center .storefront-pricing-column {
+    text-align: center; }
+  .storefront-pricing-table .storefront-pricing-column {
+    margin-bottom: 2.618em; }
+    .storefront-pricing-table .storefront-pricing-column.highlight {
+      box-shadow: 0 1px 1em 0 rgba(0, 0, 0, 0.2);
+      margin-top: -.65em; }
+      .storefront-pricing-table .storefront-pricing-column.highlight .column-title {
+        padding-top: 1em;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px; }
+      .storefront-pricing-table .storefront-pricing-column.highlight .features li {
+        background-color: rgba(0, 0, 0, 0.05); }
+        .storefront-pricing-table .storefront-pricing-column.highlight .features li:nth-child(odd) {
+          background-color: rgba(0, 0, 0, 0.075); }
+    .storefront-pricing-table .storefront-pricing-column:first-child .column-title {
+      border-top-left-radius: 3px;
+      border-top-right-radius: 3px;
+      border-bottom-right-radius: 0;
+      border-top-right-radius: 0; }
+    .storefront-pricing-table .storefront-pricing-column:last-child {
+      margin-bottom: 0; }
+      .storefront-pricing-table .storefront-pricing-column:last-child .column-title {
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0; }
+    .storefront-pricing-table .storefront-pricing-column img {
+      margin: 0 auto; }
+    .storefront-pricing-table .storefront-pricing-column .column-title {
+      margin: 0;
+      padding: .618em 1em; }
+    .storefront-pricing-table .storefront-pricing-column .features {
+      margin: 0;
+      list-style-type: none; }
+      .storefront-pricing-table .storefront-pricing-column .features li {
+        padding: 1em 1.387em; }
+        .storefront-pricing-table .storefront-pricing-column .features li:nth-child(odd) {
+          background-color: rgba(0, 0, 0, 0.025); }
+      .storefront-pricing-table .storefront-pricing-column .features:first-child {
+        margin-top: 4.55em;
+        background: rgba(0, 0, 0, 0.05); }
+    .storefront-pricing-table .storefront-pricing-column .add_to_cart_inline {
+      margin: 0;
+      border: 0 !important;
+      padding: 1.387em !important;
+      background-color: rgba(0, 0, 0, 0.05);
+      border-top: 2px solid rgba(0, 0, 0, 0.1) !important; }
+      .storefront-pricing-table .storefront-pricing-column .add_to_cart_inline .amount {
+        display: block;
+        font-weight: 700;
+        margin-bottom: 1em;
+        font-size: 1.387em; }
+      .storefront-pricing-table .storefront-pricing-column .add_to_cart_inline .button {
+        display: block;
+        text-align: center; }
+
+@media screen and (min-width: 768px) {
+  .storefront-pricing-table .storefront-pricing-column {
+    margin-bottom: 0; }
+  .storefront-pricing-table.columns-2 .storefront-pricing-column {
+    width: 50%;
+    float: left; }
+  .storefront-pricing-table.columns-3 .storefront-pricing-column {
+    width: 33.3333%;
+    float: left; }
+  .storefront-pricing-table.columns-4 .storefront-pricing-column {
+    width: 25%;
+    float: left; }
+  .storefront-pricing-table.columns-5 .storefront-pricing-column {
+    width: 20%;
+    float: left; }
+  .storefront-pricing-table.columns-6 .storefront-pricing-column {
+    width: 16.666666667%;
+    float: left; } }

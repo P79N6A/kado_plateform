@@ -1,0 +1,159 @@
+@import 'susy';
+@import 'bourbon';
+
+// Styles for mobile
+.storefront-pricing-table {
+	@include clearfix;
+	margin-bottom: 2.618em;
+
+	&.align-left {
+		.storefront-pricing-column {
+			text-align: left;
+		}
+	}
+
+	&.align-right {
+		.storefront-pricing-column {
+			text-align: right;
+		}
+	}
+
+	&.align-center {
+		.storefront-pricing-column {
+			text-align: center;
+		}
+	}
+
+	.storefront-pricing-column {
+		margin-bottom: 2.618em;
+
+		&.highlight {
+			box-shadow: 0 1px 1em 0 rgba(0,0,0,.2);
+			margin-top: -.65em;
+
+			.column-title {
+				padding-top: 1em;
+				@include border-top-radius(3px);
+			}
+
+			.features {
+				li {
+					background-color: rgba(#000, .05);
+
+					&:nth-child(odd) {
+						background-color: rgba(#000, .075);
+					}
+				}
+			}
+		}
+
+		&:first-child {
+			.column-title {
+				@include border-top-radius(3px);
+				@include border-right-radius(0);
+			}
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+
+			.column-title {
+				@include border-top-radius(3px);
+				@include border-left-radius(0);
+			}
+		}
+
+		img {
+			margin: 0 auto;
+		}
+
+		.column-title {
+			margin: 0;
+			padding: .618em 1em;
+		}
+
+		.features {
+			margin: 0;
+			list-style-type: none;
+
+			li {
+				padding: 1em 1.387em;
+
+				&:nth-child(odd) {
+					background-color: rgba(#000, .025);
+				}
+			}
+
+			&:first-child {
+				margin-top: 4.55em;
+				background: rgba(#000,.05);
+			}
+		}
+
+		.add_to_cart_inline {
+			margin: 0;
+			border: 0 !important;
+			padding: 1.387em !important;
+			background-color: rgba(#000,.05);
+			border-top: 2px solid rgba(#000,.1) !important;
+
+			.amount {
+				display: block;
+				font-weight: 700;
+				margin-bottom: 1em;
+				font-size: 1.387em;
+			}
+
+			.button {
+				display: block;
+				text-align: center;
+			}
+		}
+	}
+}
+
+
+@media screen and (min-width: 768px) {
+
+	// Styles for desktop
+	.storefront-pricing-table {
+		.storefront-pricing-column {
+			margin-bottom: 0;
+		}
+
+		&.columns-2 {
+			.storefront-pricing-column {
+				width: 50%;
+				float: left;
+			}
+		}
+
+		&.columns-3 {
+			.storefront-pricing-column {
+				width: 33.3333%;
+				float: left;
+			}
+		}
+
+		&.columns-4 {
+			.storefront-pricing-column {
+				width: 25%;
+				float: left;
+			}
+		}
+
+		&.columns-5 {
+			.storefront-pricing-column {
+				width: 20%;
+				float: left;
+			}
+		}
+
+		&.columns-6 {
+			.storefront-pricing-column {
+				width: 16.666666667%;
+				float: left;
+			}
+		}
+	}
+}

@@ -1,0 +1,83 @@
+# Copyright (C) 2015 Storefront Pricing Tables
+# This file is distributed under the same license as the Storefront Pricing Tables package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Pricing Tables 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-pricing-tables\n"
+"POT-Creation-Date: 2015-04-29 14:50:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: storefront-pricing-tables.php:148 storefront-pricing-tables.php:157
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-pricing-tables.php:167
+msgid "Support"
+msgstr ""
+
+#: storefront-pricing-tables.php:168
+msgid "Docs"
+msgstr ""
+
+#: storefront-pricing-tables.php:191
+msgid ""
+"%sThanks for installing the Storefront Pricing Tables extension. To get "
+"started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+#: storefront-pricing-tables.php:267
+msgid "Pricing Tables"
+msgstr ""
+
+#: storefront-pricing-tables.php:281
+msgid "Content alignment"
+msgstr ""
+
+#: storefront-pricing-tables.php:308
+msgid "Headings"
+msgstr ""
+
+#: storefront-pricing-tables.php:309
+msgid "Column header background color"
+msgstr ""
+
+#: storefront-pricing-tables.php:321
+msgid "Column header text color"
+msgstr ""
+
+#: storefront-pricing-tables.php:333
+msgid "Highlighted column header background color"
+msgstr ""
+
+#: storefront-pricing-tables.php:345
+msgid "Highlighted column header text color"
+msgstr ""
+
+#: storefront-pricing-tables.php:360
+msgid "Pricing table columns"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront Pricing Tables"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/products/storefront-pricing-tables/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add attractive pricing tables to your posts and pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr ""

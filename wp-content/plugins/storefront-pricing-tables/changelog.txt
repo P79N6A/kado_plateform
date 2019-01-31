@@ -1,0 +1,18 @@
+*** Storefront Pricing Tables Changelog ***
+
+2018.02.06 - version 1.1.0
+* New - Handheld styling.
+* Fix - Support for product variations.
+* Fix - Fatal error when using plugins that process shortcodes in the backend.
+
+2016.01.25 - version 1.0.3
+* Tweak - Removed deprecated function usage.
+
+2014.11.20 - version 1.0.2
+* Fix - Fix all columns getting highlighted.
+
+2015.04.29 - version 1.0.1
+* Tweak - Label names.
+
+2015.03.18 - version 1.0.0
+* Initial release

@@ -1,0 +1,16 @@
+2019-01-31T09:13:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\inc\storefront-template-hooks.php à la ligne 14
+
+2019-01-31T09:14:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\Requests\Transport\cURL.php à la ligne 441
+
+2019-01-31T09:22:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor-pro\modules\link-actions\module.php à la ligne 7
+
+2019-01-31T09:22:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\dc-woocommerce-multi-vendor\classes\class-wcmp-ajax.php à la ligne 10
+
+2019-01-31T09:32:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2019-01-31T10:58:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\yith-woocommerce-product-slider-carousel\templates\admin\ajax-category.php à la ligne 2
+
+2019-01-31T10:58:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor-pro\modules\blockquote\module.php à la ligne 6
+
+2019-01-31T11:00:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\Requests\Transport\cURL.php à la ligne 163
+

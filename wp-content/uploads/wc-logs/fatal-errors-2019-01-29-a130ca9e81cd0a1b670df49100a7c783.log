@@ -1,0 +1,233 @@
+2019-01-29T09:37:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:41:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T09:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\Requests\Transport\cURL.php à la ligne 463
+
+2019-01-29T09:46:49+00:00 CRITICAL Cannot redeclare wpml_init_language_switcher() (previously declared in C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\sitepress.php:257) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\sitepress.php à la ligne 261
+
+2019-01-29T09:46:50+00:00 CRITICAL Cannot redeclare wpml_init_language_switcher() (previously declared in C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\sitepress.php:257) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\sitepress.php à la ligne 261
+
+2019-01-29T10:34:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T10:35:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T10:35:14+00:00 CRITICAL Uncaught Error: Call to undefined method WPML_Notice::add_capability_check() in C:\xampp\htdocs\woocommerce\wp-content\plugins\wpml-media-translation\classes\menus\wpml-media-posts-media-flag-notice.php:71
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WPML_Media_Posts_Media_Flag_Notice->add_top_notice('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\admin-menus\class-wcml-setup.php(193): do_action('admin_head')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\admin-menus\class-wcml-setup.php(170): WCML_Setup->setup_header()
+#5 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WCML_Setup->setup_wizard('')
+#6 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xa dans C:\xampp\htdocs\woocommerce\wp-content\plugins\wpml-media-translation\classes\menus\wpml-media-posts-media-flag-notice.php à la ligne 71
+
+2019-01-29T10:35:32+00:00 CRITICAL Uncaught Error: Call to undefined method WPML_TM_Editor_Notice::must_reset_dismiss() in C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\notices\class-wpml-notices.php:111
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(263): WPML_Notices->add_notice(Object(WPML_TM_Editor_Notice))
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(82): WPML_Integrations_Requirements->add_tm_editor_notice(Object(WPML_Requirements_Notification), Object(WPML_Notices), Object(WPML_WP_API))
+#2 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(62): WPML_Integrations_Requirements->update_notices()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WPML_Integrations_Requirements->init('')
+#4 C:\xampp\htdocs\wooco dans C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\notices\class-wpml-notices.php à la ligne 111
+
+2019-01-29T10:37:14+00:00 CRITICAL Uncaught Error: Call to undefined method WPML_TM_Editor_Notice::must_reset_dismiss() in C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\notices\class-wpml-notices.php:111
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(263): WPML_Notices->add_notice(Object(WPML_TM_Editor_Notice))
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(82): WPML_Integrations_Requirements->add_tm_editor_notice(Object(WPML_Requirements_Notification), Object(WPML_Notices), Object(WPML_WP_API))
+#2 C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\requirements\class-wpml-integrations-requirements.php(62): WPML_Integrations_Requirements->update_notices()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WPML_Integrations_Requirements->init('')
+#4 C:\xampp\htdocs\wooco dans C:\xampp\htdocs\woocommerce\wp-content\plugins\sitepress-multilingual-cms\classes\notices\class-wpml-notices.php à la ligne 111
+
+2019-01-29T10:38:21+00:00 CRITICAL Uncaught Error: Call to a member function convert_url() on null in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php:44
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WCML_Cart_Switch_Lang_Functions->wcml_language_switch_dialog('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(2630): do_action('wp_footer')
+#4 C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\footer.php(37): wp_footer()
+#5 C:\xampp\htdocs\woocommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\woocommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(76): locate_template(Array, true)
+#8 C:\xampp\htdocs\woocom dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php à la ligne 44
+
+2019-01-29T10:38:27+00:00 CRITICAL Uncaught Error: Call to a member function convert_url() on null in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php:44
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WCML_Cart_Switch_Lang_Functions->wcml_language_switch_dialog('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(2630): do_action('wp_footer')
+#4 C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\footer.php(37): wp_footer()
+#5 C:\xampp\htdocs\woocommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\woocommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(76): locate_template(Array, true)
+#8 C:\xampp\htdocs\woocom dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php à la ligne 44
+
+2019-01-29T10:39:23+00:00 CRITICAL Uncaught Error: Call to a member function convert_url() on null in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php:44
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WCML_Cart_Switch_Lang_Functions->wcml_language_switch_dialog('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(2630): do_action('wp_footer')
+#4 C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\footer.php(37): wp_footer()
+#5 C:\xampp\htdocs\woocommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\woocommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(76): locate_template(Array, true)
+#8 C:\xampp\htdocs\woocom dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php à la ligne 44
+
+2019-01-29T10:40:08+00:00 CRITICAL Uncaught Error: Call to a member function convert_url() on null in C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php:44
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(286): WCML_Cart_Switch_Lang_Functions->wcml_language_switch_dialog('')
+#1 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(2630): do_action('wp_footer')
+#4 C:\xampp\htdocs\woocommerce\wp-content\themes\storefront\footer.php(37): wp_footer()
+#5 C:\xampp\htdocs\woocommerce\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\woocommerce\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#7 C:\xampp\htdocs\woocommerce\wp-includes\general-template.php(76): locate_template(Array, true)
+#8 C:\xampp\htdocs\woocom dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-multilingual\inc\wcml-cart-switch-lang-functions.php à la ligne 44
+
+2019-01-29T14:56:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\customize\class-wp-customize-nav-menu-item-control.php à la ligne 15
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\update.php à la ligne 14
+
+2019-01-29T14:56:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T14:56:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\functions.php à la ligne 3
+
+2019-01-29T14:56:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\user.php à la ligne 16
+
+2019-01-29T14:56:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-admin\includes\user.php à la ligne 16
+
+2019-01-29T14:56:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\templates\checkout\payment-method.php à la ligne 18
+
+2019-01-29T14:58:04+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 163
+
+2019-01-29T14:58:04+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\functions.php à la ligne 330
+
+2019-01-29T14:58:04+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor\core\documents-manager.php à la ligne 210
+
+2019-01-29T14:58:04+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 8192 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor-pro\modules\assets-manager\classes\assets-base.php à la ligne 279
+
+2019-01-29T14:58:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\functions.php à la ligne 330
+
+2019-01-29T14:58:38+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\storefront-powerpack\includes\customizer\header\controls\class-sp-header-action-control.php à la ligne 1
+
+2019-01-29T14:58:43+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T14:58:43+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\mo.php à la ligne 291
+
+2019-01-29T14:58:48+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\woocommerce\wp-admin\includes\media.php à la ligne 2424
+
+2019-01-29T14:58:51+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 163
+
+2019-01-29T14:59:01+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 1053
+
+2019-01-29T14:59:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\mo.php à la ligne 272
+
+2019-01-29T14:59:22+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper-file-headers.php à la ligne 1
+
+2019-01-29T14:59:23+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 57344 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\mo.php à la ligne 272
+
+2019-01-29T14:59:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\elementor\core\documents-manager.php à la ligne 210
+
+2019-01-29T14:59:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T14:59:26+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T14:59:57+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:00+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:01+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:02+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:11+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:13+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:20+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:24+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:27+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:31+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 200704 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 110
+
+2019-01-29T15:00:35+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\meta.php à la ligne 916
+
+2019-01-29T15:00:59+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php à la ligne 81
+
+2019-01-29T15:00:59+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php à la ligne 81
+
+2019-01-29T15:01:53+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 1053
+
+2019-01-29T15:02:01+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\functions.php à la ligne 330
+
+2019-01-29T15:02:03+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 1053
+
+2019-01-29T15:02:06+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\dc-woocommerce-multi-vendor\classes\class-wcmp-vendor-details.php à la ligne 880
+
+2019-01-29T15:02:22+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 233472 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 201
+
+2019-01-29T15:02:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 233472 bytes) in C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php on line 201
+
+2019-01-29T15:03:11+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 53248 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\streams.php à la ligne 110
+
+2019-01-29T15:09:03+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php à la ligne 163
+
+2019-01-29T15:09:03+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 57344 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\mo.php à la ligne 272
+
+2019-01-29T15:11:14+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\pomo\mo.php à la ligne 297
+
+2019-01-29T15:21:16+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\woocommerce\wp-includes\functions.php à la ligne 330
+
+2019-01-29T15:21:24+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\woocommerce\wp-admin\includes\media.php à la ligne 2434
+
+2019-01-29T15:42:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+
+2019-01-29T15:43:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\woocommerce\wp-includes\wp-db.php à la ligne 1924
+

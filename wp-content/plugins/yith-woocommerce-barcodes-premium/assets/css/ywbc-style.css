@@ -1,0 +1,49 @@
+#ywbc-generate {
+    margin: 10px 0;
+    display: block;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.ywbc-barcode-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.ywbc-barcode-display-value {
+    display: block;
+    text-align: center;
+}
+
+.barcode-value {
+    display: inline-block;
+    text-align: center;
+}
+
+.ywbc-barcode-generation {
+    max-width: 250px;
+
+}
+
+.ywbc-generate-barcode {
+    margin-top: 10px;
+    text-align: center;
+    border: 1px;
+    border-radius: 3px;
+}
+
+.ywbc-action-results.error {
+    color: red;
+}
+
+.yith-barcode-buttons {
+    margin: 10px 0;
+}
+
+input.ywbc-value-field {
+    width: 75%;
+}
+
+.yith-barcode-actions {
+    padding: 30px 0;
+}
